@@ -1,0 +1,2519 @@
+,Unnamed: 0,Team 1,Team 2,Winner,Year
+0,0,Arkansas,Iowa,Arkansas,1985
+1,1,Auburn,Purdue,Auburn,1985
+2,2,Georgetown,Lehigh,Georgetown,1985
+3,3,Illinois St,USC,Illinois St,1985
+4,4,Kansas,Ohio,Kansas,1985
+5,5,Kentucky,Washington,Kentucky,1985
+6,6,Louisiana Tech,Pittsburgh,Louisiana Tech,1985
+7,7,Loyola-Chi,Iona,Loyola-Chi,1985
+8,8,N Carolina,Middle Tenn,N Carolina,1985
+9,9,Notre Dame,Oregon St,Notre Dame,1985
+10,10,Ohio State,Iowa State,Ohio State,1985
+11,11,Oklahoma,NC A&T,Oklahoma,1985
+12,12,S Methodist,Old Dominion,S Methodist,1985
+13,13,St Johns,Southern,St Johns,1985
+14,14,Temple,VA Tech,Temple,1985
+15,15,UNLV,San Diego St,UNLV,1985
+16,16,Alabama,Arizona,Alabama,1985
+17,17,Boston College,Texas Tech,Boston College,1985
+18,18,Duke,Pepperdine,Duke,1985
+19,19,Georgia,Wichita St,Georgia,1985
+20,20,GA Tech,Mercer,GA Tech,1985
+21,21,Illinois,Northeastrn,Illinois,1985
+22,22,Maryland,Miami OH,Maryland,1985
+23,23,Memphis,U Penn,Memphis,1985
+24,24,Michigan,F Dickinson,Michigan,1985
+25,25,Navy,LSU,Navy,1985
+26,26,NC State,Nevada,NC State,1985
+27,27,Syracuse,DePaul,Syracuse,1985
+28,28,UAB,Michigan St,UAB,1985
+29,29,UTEP,Tulsa,UTEP,1985
+30,30,VCU,Marshall,VCU,1985
+31,31,Villanova,Dayton,Villanova,1985
+32,32,Auburn,Kansas,Auburn,1985
+33,33,Georgetown,Temple,Georgetown,1985
+34,34,Kentucky,UNLV,Kentucky,1985
+35,35,Louisiana Tech,Ohio State,Louisiana Tech,1985
+36,36,Loyola-Chi,S Methodist,Loyola-Chi,1985
+37,37,N Carolina,Notre Dame,N Carolina,1985
+38,38,Oklahoma,Illinois St,Oklahoma,1985
+39,39,St Johns,Arkansas,St Johns,1985
+40,40,Alabama,VCU,Alabama,1985
+41,41,Boston College,Duke,Boston College,1985
+42,42,GA Tech,Syracuse,GA Tech,1985
+43,43,Illinois,Georgia,Illinois,1985
+44,44,Maryland,Navy,Maryland,1985
+45,45,Memphis,UAB,Memphis,1985
+46,46,NC State,UTEP,NC State,1985
+47,47,Villanova,Michigan,Villanova,1985
+48,48,Georgetown,Loyola-Chi,Georgetown,1985
+49,49,GA Tech,Illinois,GA Tech,1985
+50,50,Memphis,Boston College,Memphis,1985
+51,51,Oklahoma,Louisiana Tech,Oklahoma,1985
+52,52,NC State,Alabama,NC State,1985
+53,53,N Carolina,Auburn,N Carolina,1985
+54,54,St Johns,Kentucky,St Johns,1985
+55,55,Villanova,Maryland,Villanova,1985
+56,56,Georgetown,GA Tech,Georgetown,1985
+57,57,Memphis,Oklahoma,Memphis,1985
+58,58,St Johns,NC State,St Johns,1985
+59,59,Villanova,N Carolina,Villanova,1985
+60,60,Georgetown,St Johns,Georgetown,1985
+61,61,Villanova,Memphis,Villanova,1985
+62,62,Villanova,Georgetown,Villanova,1985
+63,63,Bradley,UTEP,Bradley,1986
+64,64,DePaul,Virginia,DePaul,1986
+65,65,Duke,Miss Val St,Duke,1986
+66,66,Georgetown,Texas Tech,Georgetown,1986
+67,67,GA Tech,Marist,GA Tech,1986
+68,68,Kansas,NC A&T,Kansas,1986
+69,69,Louisville,Drexel,Louisville,1986
+70,70,LSU,Purdue,LSU,1986
+71,71,Memphis,Ball St,Memphis,1986
+72,72,Michigan St,Washington,Michigan St,1986
+73,73,N Carolina,Utah,N Carolina,1986
+74,74,Oklahoma,Northeastrn,Oklahoma,1986
+75,75,Old Dominion,W Virginia,Old Dominion,1986
+76,76,Temple,Jacksonville,Temple,1986
+77,77,UAB,Missouri,UAB,1986
+78,78,Villanova,VA Tech,Villanova,1986
+79,79,Alabama,Xavier,Alabama,1986
+80,80,AR Lit Rock,Notre Dame,AR Lit Rock,1986
+81,81,Auburn,Arizona,Auburn,1986
+82,82,Cleveland St,Indiana,Cleveland St,1986
+83,83,Illinois,Fairfield,Illinois,1986
+84,84,Iowa State,Miami OH,Iowa State,1986
+85,85,Kentucky,Davidson,Kentucky,1986
+86,86,Maryland,Pepperdine,Maryland,1986
+87,87,Michigan,Akron,Michigan,1986
+88,88,Navy,Tulsa,Navy,1986
+89,89,NC State,Iowa,NC State,1986
+90,90,St Johns,Montana St,St Johns,1986
+91,91,St Josephs,Richmond,St Josephs,1986
+92,92,Syracuse,Brown,Syracuse,1986
+93,93,UNLV,ULM,UNLV,1986
+94,94,W Kentucky,Nebraska,W Kentucky,1986
+95,95,DePaul,Oklahoma,DePaul,1986
+96,96,Duke,Old Dominion,Duke,1986
+97,97,GA Tech,Villanova,GA Tech,1986
+98,98,Kansas,Temple,Kansas,1986
+99,99,Louisville,Bradley,Louisville,1986
+100,100,LSU,Memphis,LSU,1986
+101,101,Michigan St,Georgetown,Michigan St,1986
+102,102,N Carolina,UAB,N Carolina,1986
+103,103,Alabama,Illinois,Alabama,1986
+104,104,Auburn,St Johns,Auburn,1986
+105,105,Cleveland St,St Josephs,Cleveland St,1986
+106,106,Iowa State,Michigan,Iowa State,1986
+107,107,Kentucky,W Kentucky,Kentucky,1986
+108,108,Navy,Syracuse,Navy,1986
+109,109,NC State,AR Lit Rock,NC State,1986
+110,110,UNLV,Maryland,UNLV,1986
+111,111,Auburn,UNLV,Auburn,1986
+112,112,Kentucky,Alabama,Kentucky,1986
+113,113,Louisville,N Carolina,Louisville,1986
+114,114,LSU,GA Tech,LSU,1986
+115,115,Duke,DePaul,Duke,1986
+116,116,Kansas,Michigan St,Kansas,1986
+117,117,Navy,Cleveland St,Navy,1986
+118,118,NC State,Iowa State,NC State,1986
+119,119,Louisville,Auburn,Louisville,1986
+120,120,LSU,Kentucky,LSU,1986
+121,121,Duke,Navy,Duke,1986
+122,122,Kansas,NC State,Kansas,1986
+123,123,Duke,Kansas,Duke,1986
+124,124,Louisville,LSU,Louisville,1986
+125,125,Louisville,Duke,Louisville,1986
+126,126,Alabama,NC A&T,Alabama,1987
+127,127,Auburn,San Diego,Auburn,1987
+128,128,Austin Peay,Illinois,Austin Peay,1987
+129,129,Duke,Texas A&M,Duke,1987
+130,130,Indiana,Fairfield,Indiana,1987
+131,131,Kansas St,Georgia,Kansas St,1987
+132,132,Michigan,Navy,Michigan,1987
+133,133,New Orleans,BYU,New Orleans,1987
+134,134,N Carolina,U Penn,N Carolina,1987
+135,135,Notre Dame,Middle Tenn,Notre Dame,1987
+136,136,Providence,UAB,Providence,1987
+137,137,TX Christian,Marshall,TX Christian,1987
+138,138,UCLA,C Michigan,UCLA,1987
+139,139,UNLV,Idaho St,UNLV,1987
+140,140,Wyoming,Virginia,Wyoming,1987
+141,141,Xavier,Missouri,Xavier,1987
+142,142,DePaul,Louisiana Tech,DePaul,1987
+143,143,Florida,NC State,Florida,1987
+144,144,Georgetown,Bucknell,Georgetown,1987
+145,145,Iowa,Santa Clara,Iowa,1987
+146,146,Kansas,Houston,Kansas,1987
+147,147,LSU,GA Tech,LSU,1987
+148,148,Missouri St,Clemson,Missouri St,1987
+149,149,Ohio State,Kentucky,Ohio State,1987
+150,150,Oklahoma,Tulsa,Oklahoma,1987
+151,151,Pittsburgh,Marist,Pittsburgh,1987
+152,152,Purdue,Northeastrn,Purdue,1987
+153,153,St Johns,Wichita St,St Johns,1987
+154,154,Syracuse,Ga Southern,Syracuse,1987
+155,155,Temple,Southern,Temple,1987
+156,156,UTEP,Arizona,UTEP,1987
+157,157,W Kentucky,W Virginia,W Kentucky,1987
+158,158,Alabama,New Orleans,Alabama,1987
+159,159,Duke,Xavier,Duke,1987
+160,160,Indiana,Auburn,Indiana,1987
+161,161,N Carolina,Michigan,N Carolina,1987
+162,162,Notre Dame,TX Christian,Notre Dame,1987
+163,163,Providence,Austin Peay,Providence,1987
+164,164,UNLV,Kansas St,UNLV,1987
+165,165,Wyoming,UCLA,Wyoming,1987
+166,166,DePaul,St Johns,DePaul,1987
+167,167,Florida,Purdue,Florida,1987
+168,168,Georgetown,Ohio State,Georgetown,1987
+169,169,Iowa,UTEP,Iowa,1987
+170,170,Kansas,Missouri St,Kansas,1987
+171,171,LSU,Temple,LSU,1987
+172,172,Oklahoma,Pittsburgh,Oklahoma,1987
+173,173,Syracuse,W Kentucky,Syracuse,1987
+174,174,Georgetown,Kansas,Georgetown,1987
+175,175,N Carolina,Notre Dame,N Carolina,1987
+176,176,Providence,Alabama,Providence,1987
+177,177,Syracuse,Florida,Syracuse,1987
+178,178,Indiana,Duke,Indiana,1987
+179,179,Iowa,Oklahoma,Iowa,1987
+180,180,LSU,DePaul,LSU,1987
+181,181,UNLV,Wyoming,UNLV,1987
+182,182,Providence,Georgetown,Providence,1987
+183,183,Syracuse,N Carolina,Syracuse,1987
+184,184,Indiana,LSU,Indiana,1987
+185,185,UNLV,Iowa,UNLV,1987
+186,186,Indiana,UNLV,Indiana,1987
+187,187,Syracuse,Providence,Syracuse,1987
+188,188,Indiana,Syracuse,Indiana,1987
+189,189,Auburn,Bradley,Auburn,1988
+190,190,BYU,Charlotte,BYU,1988
+191,191,DePaul,Wichita St,DePaul,1988
+192,192,Duke,Boston Univ,Duke,1988
+193,193,Florida,St Johns,Florida,1988
+194,194,Kansas St,La Salle,Kansas St,1988
+195,195,Louisville,Oregon St,Louisville,1988
+196,196,Loy Marymount,Wyoming,Loy Marymount,1988
+197,197,Memphis,Baylor,Memphis,1988
+198,198,Michigan,Boise State,Michigan,1988
+199,199,N Carolina,North Texas,N Carolina,1988
+200,200,Oklahoma,Chattanooga,Oklahoma,1988
+201,201,Purdue,F Dickinson,Purdue,1988
+202,202,Rhode Island,Missouri,Rhode Island,1988
+203,203,S Methodist,Notre Dame,S Methodist,1988
+204,204,Syracuse,NC A&T,Syracuse,1988
+205,205,Arizona,Cornell,Arizona,1988
+206,206,Georgetown,LSU,Georgetown,1988
+207,207,GA Tech,Iowa State,GA Tech,1988
+208,208,Illinois,UT San Antonio,Illinois,1988
+209,209,Iowa,Florida St,Iowa,1988
+210,210,Kansas,Xavier,Kansas,1988
+211,211,Kentucky,Southern,Kentucky,1988
+212,212,Maryland,UCSB,Maryland,1988
+213,213,Murray St,NC State,Murray St,1988
+214,214,Pittsburgh,E Michigan,Pittsburgh,1988
+215,215,Richmond,Indiana,Richmond,1988
+216,216,Seton Hall,UTEP,Seton Hall,1988
+217,217,Temple,Lehigh,Temple,1988
+218,218,UNLV,Missouri St,UNLV,1988
+219,219,Vanderbilt,Utah State,Vanderbilt,1988
+220,220,Villanova,Arkansas,Villanova,1988
+221,221,Duke,S Methodist,Duke,1988
+222,222,Kansas St,DePaul,Kansas St,1988
+223,223,Louisville,BYU,Louisville,1988
+224,224,Michigan,Florida,Michigan,1988
+225,225,N Carolina,Loy Marymount,N Carolina,1988
+226,226,Oklahoma,Auburn,Oklahoma,1988
+227,227,Purdue,Memphis,Purdue,1988
+228,228,Rhode Island,Syracuse,Rhode Island,1988
+229,229,Arizona,Seton Hall,Arizona,1988
+230,230,Iowa,UNLV,Iowa,1988
+231,231,Kansas,Murray St,Kansas,1988
+232,232,Kentucky,Maryland,Kentucky,1988
+233,233,Richmond,GA Tech,Richmond,1988
+234,234,Temple,Georgetown,Temple,1988
+235,235,Vanderbilt,Pittsburgh,Vanderbilt,1988
+236,236,Villanova,Illinois,Villanova,1988
+237,237,Duke,Rhode Island,Duke,1988
+238,238,Oklahoma,Louisville,Oklahoma,1988
+239,239,Temple,Richmond,Temple,1988
+240,240,Villanova,Kentucky,Villanova,1988
+241,241,Arizona,Iowa,Arizona,1988
+242,242,Kansas,Vanderbilt,Kansas,1988
+243,243,Kansas St,Purdue,Kansas St,1988
+244,244,N Carolina,Michigan,N Carolina,1988
+245,245,Duke,Temple,Duke,1988
+246,246,Oklahoma,Villanova,Oklahoma,1988
+247,247,Arizona,N Carolina,Arizona,1988
+248,248,Kansas,Kansas St,Kansas,1988
+249,249,Kansas,Duke,Kansas,1988
+250,250,Oklahoma,Arizona,Oklahoma,1988
+251,251,Kansas,Oklahoma,Kansas,1988
+252,252,Arizona,Rob Morris,Arizona,1989
+253,253,Arkansas,Loy Marymount,Arkansas,1989
+254,254,Ball St,Pittsburgh,Ball St,1989
+255,255,Clemson,St Marys,Clemson,1989
+256,256,DePaul,Memphis,DePaul,1989
+257,257,Duke,S Carolina St,Duke,1989
+258,258,Illinois,McNeese St,Illinois,1989
+259,259,Louisiana Tech,La Salle,Louisiana Tech,1989
+260,260,Louisville,AR Lit Rock,Louisville,1989
+261,261,Minnesota,Kansas St,Minnesota,1989
+262,262,Middle Tenn,Florida St,Middle Tenn,1989
+263,263,Oklahoma,E Tenn St,Oklahoma,1989
+264,264,Siena,Stanford,Siena,1989
+265,265,UNLV,Idaho,UNLV,1989
+266,266,Virginia,Providence,Virginia,1989
+267,267,W Virginia,Tennessee,W Virginia,1989
+268,268,Colorado St,Florida,Colorado St,1989
+269,269,Evansville,Oregon St,Evansville,1989
+270,270,Georgetown,Princeton,Georgetown,1989
+271,271,Indiana,George Mason,Indiana,1989
+272,272,Iowa,Rutgers,Iowa,1989
+273,273,Michigan,Xavier,Michigan,1989
+274,274,Missouri,Creighton,Missouri,1989
+275,275,NC State,S Carolina,NC State,1989
+276,276,N Carolina,Southern,N Carolina,1989
+277,277,Notre Dame,Vanderbilt,Notre Dame,1989
+278,278,Seton Hall,Missouri St,Seton Hall,1989
+279,279,South Alabama,Alabama,South Alabama,1989
+280,280,Syracuse,Bucknell,Syracuse,1989
+281,281,Texas,GA Tech,Texas,1989
+282,282,UCLA,Iowa State,UCLA,1989
+283,283,UTEP,LSU,UTEP,1989
+284,284,Arizona,Clemson,Arizona,1989
+285,285,Duke,W Virginia,Duke,1989
+286,286,Illinois,Ball St,Illinois,1989
+287,287,Louisville,Arkansas,Louisville,1989
+288,288,Minnesota,Siena,Minnesota,1989
+289,289,Oklahoma,Louisiana Tech,Oklahoma,1989
+290,290,UNLV,DePaul,UNLV,1989
+291,291,Virginia,Middle Tenn,Virginia,1989
+292,292,Georgetown,Notre Dame,Georgetown,1989
+293,293,Indiana,UTEP,Indiana,1989
+294,294,Michigan,South Alabama,Michigan,1989
+295,295,Missouri,Texas,Missouri,1989
+296,296,NC State,Iowa,NC State,1989
+297,297,N Carolina,UCLA,N Carolina,1989
+298,298,Seton Hall,Evansville,Seton Hall,1989
+299,299,Syracuse,Colorado St,Syracuse,1989
+300,300,Michigan,N Carolina,Michigan,1989
+301,301,Seton Hall,Indiana,Seton Hall,1989
+302,302,UNLV,Arizona,UNLV,1989
+303,303,Virginia,Oklahoma,Virginia,1989
+304,304,Duke,Minnesota,Duke,1989
+305,305,Georgetown,NC State,Georgetown,1989
+306,306,Illinois,Louisville,Illinois,1989
+307,307,Syracuse,Missouri,Syracuse,1989
+308,308,Michigan,Virginia,Michigan,1989
+309,309,Seton Hall,UNLV,Seton Hall,1989
+310,310,Duke,Georgetown,Duke,1989
+311,311,Illinois,Syracuse,Illinois,1989
+312,312,Michigan,Illinois,Michigan,1989
+313,313,Seton Hall,Duke,Seton Hall,1989
+314,314,Michigan,Seton Hall,Michigan,1989
+315,315,Arkansas,Princeton,Arkansas,1990
+316,316,Ball St,Oregon St,Ball St,1990
+317,317,California,Indiana,California,1990
+318,318,Clemson,BYU,Clemson,1990
+319,319,Connecticut,Boston Univ,Connecticut,1990
+320,320,Dayton,Illinois,Dayton,1990
+321,321,GA Tech,E Tenn St,GA Tech,1990
+322,322,La Salle,S Mississippi,La Salle,1990
+323,323,Louisville,Idaho,Louisville,1990
+324,324,LSU,Villanova,LSU,1990
+325,325,Michigan St,Murray St,Michigan St,1990
+326,326,N Carolina,Missouri St,N Carolina,1990
+327,327,Ohio State,Providence,Ohio State,1990
+328,328,Oklahoma,Towson,Oklahoma,1990
+329,329,UCSB,Houston,UCSB,1990
+330,330,UNLV,AR Lit Rock,UNLV,1990
+331,331,Alabama,Colorado St,Alabama,1990
+332,332,Arizona,S Florida,Arizona,1990
+333,333,Duke,Richmond,Duke,1990
+334,334,Georgetown,TX Southern,Georgetown,1990
+335,335,Kansas,Rob Morris,Kansas,1990
+336,336,Loy Marymount,N Mex State,Loy Marymount,1990
+337,337,Michigan,Illinois St,Michigan,1990
+338,338,Minnesota,UTEP,Minnesota,1990
+339,339,N Iowa,Missouri,N Iowa,1990
+340,340,Purdue,ULM,Purdue,1990
+341,341,St Johns,Temple,St Johns,1990
+342,342,Syracuse,Coppin St,Syracuse,1990
+343,343,Texas,Georgia,Texas,1990
+344,344,UCLA,UAB,UCLA,1990
+345,345,Virginia,Notre Dame,Virginia,1990
+346,346,Xavier,Kansas St,Xavier,1990
+347,347,Arkansas,Dayton,Arkansas,1990
+348,348,Ball St,Louisville,Ball St,1990
+349,349,Clemson,La Salle,Clemson,1990
+350,350,Connecticut,California,Connecticut,1990
+351,351,GA Tech,LSU,GA Tech,1990
+352,352,Michigan St,UCSB,Michigan St,1990
+353,353,N Carolina,Oklahoma,N Carolina,1990
+354,354,UNLV,Ohio State,UNLV,1990
+355,355,Alabama,Arizona,Alabama,1990
+356,356,Duke,St Johns,Duke,1990
+357,357,Loy Marymount,Michigan,Loy Marymount,1990
+358,358,Minnesota,N Iowa,Minnesota,1990
+359,359,Syracuse,Virginia,Syracuse,1990
+360,360,Texas,Purdue,Texas,1990
+361,361,UCLA,Kansas,UCLA,1990
+362,362,Xavier,Georgetown,Xavier,1990
+363,363,Arkansas,N Carolina,Arkansas,1990
+364,364,Connecticut,Clemson,Connecticut,1990
+365,365,Duke,UCLA,Duke,1990
+366,366,Texas,Xavier,Texas,1990
+367,367,GA Tech,Michigan St,GA Tech,1990
+368,368,Loy Marymount,Alabama,Loy Marymount,1990
+369,369,Minnesota,Syracuse,Minnesota,1990
+370,370,UNLV,Ball St,UNLV,1990
+371,371,Arkansas,Texas,Arkansas,1990
+372,372,Duke,Connecticut,Duke,1990
+373,373,GA Tech,Minnesota,GA Tech,1990
+374,374,UNLV,Loy Marymount,UNLV,1990
+375,375,Duke,Arkansas,Duke,1990
+376,376,UNLV,GA Tech,UNLV,1990
+377,377,UNLV,Duke,UNLV,1990
+378,378,Arizona,St Francis PA,Arizona,1991
+379,379,BYU,Virginia,BYU,1991
+380,380,Connecticut,LSU,Connecticut,1991
+381,381,Creighton,N Mex State,Creighton,1991
+382,382,Duke,ULM,Duke,1991
+383,383,Florida St,USC,Florida St,1991
+384,384,Indiana,Coastal Car,Indiana,1991
+385,385,Iowa,E Tenn St,Iowa,1991
+386,386,Kansas,New Orleans,Kansas,1991
+387,387,NC State,S Mississippi,NC State,1991
+388,388,Oklahoma St,New Mexico,Oklahoma St,1991
+389,389,Pittsburgh,Georgia,Pittsburgh,1991
+390,390,Richmond,Syracuse,Richmond,1991
+391,391,Seton Hall,Pepperdine,Seton Hall,1991
+392,392,Temple,Purdue,Temple,1991
+393,393,Xavier,Nebraska,Xavier,1991
+394,394,Alabama,Murray St,Alabama,1991
+395,395,Arizona St,Rutgers,Arizona St,1991
+396,396,Arkansas,Georgia St,Arkansas,1991
+397,397,E Michigan,Miss State,E Michigan,1991
+398,398,Georgetown,Vanderbilt,Georgetown,1991
+399,399,GA Tech,DePaul,GA Tech,1991
+400,400,Michigan St,WI-Grn Bay,Michigan St,1991
+401,401,N Carolina,Northeastrn,N Carolina,1991
+402,402,Ohio State,Towson,Ohio State,1991
+403,403,Penn St,UCLA,Penn St,1991
+404,404,St Johns,N Illinois,St Johns,1991
+405,405,Texas,St Peter's,Texas,1991
+406,406,UNLV,Montana,UNLV,1991
+407,407,Utah,South Alabama,Utah,1991
+408,408,Villanova,Princeton,Villanova,1991
+409,409,Wake Forest,Louisiana Tech,Wake Forest,1991
+410,410,Arizona,BYU,Arizona,1991
+411,411,Connecticut,Xavier,Connecticut,1991
+412,412,Duke,Iowa,Duke,1991
+413,413,Indiana,Florida St,Indiana,1991
+414,414,Kansas,Pittsburgh,Kansas,1991
+415,415,Oklahoma St,NC State,Oklahoma St,1991
+416,416,Seton Hall,Creighton,Seton Hall,1991
+417,417,Temple,Richmond,Temple,1991
+418,418,Alabama,Wake Forest,Alabama,1991
+419,419,Arkansas,Arizona St,Arkansas,1991
+420,420,E Michigan,Penn St,E Michigan,1991
+421,421,N Carolina,Villanova,N Carolina,1991
+422,422,Ohio State,GA Tech,Ohio State,1991
+423,423,St Johns,Texas,St Johns,1991
+424,424,UNLV,Georgetown,UNLV,1991
+425,425,Utah,Michigan St,Utah,1991
+426,426,Arkansas,Alabama,Arkansas,1991
+427,427,Kansas,Indiana,Kansas,1991
+428,428,Seton Hall,Arizona,Seton Hall,1991
+429,429,UNLV,Utah,UNLV,1991
+430,430,Duke,Connecticut,Duke,1991
+431,431,N Carolina,E Michigan,N Carolina,1991
+432,432,St Johns,Ohio State,St Johns,1991
+433,433,Temple,Oklahoma St,Temple,1991
+434,434,Kansas,Arkansas,Kansas,1991
+435,435,UNLV,Seton Hall,UNLV,1991
+436,436,Duke,St Johns,Duke,1991
+437,437,N Carolina,Temple,N Carolina,1991
+438,438,Duke,UNLV,Duke,1991
+439,439,Kansas,N Carolina,Kansas,1991
+440,440,Duke,Kansas,Duke,1991
+441,441,Alabama,Stanford,Alabama,1992
+442,442,Arkansas,Murray St,Arkansas,1992
+443,443,Connecticut,Nebraska,Connecticut,1992
+444,444,Duke,Campbell,Duke,1992
+445,445,Florida St,Montana,Florida St,1992
+446,446,Georgetown,S Florida,Georgetown,1992
+447,447,GA Tech,Houston,GA Tech,1992
+448,448,Indiana,E Illinois,Indiana,1992
+449,449,Iowa,Texas,Iowa,1992
+450,450,LSU,BYU,LSU,1992
+451,451,Memphis,Pepperdine,Memphis,1992
+452,452,Missouri,W Virginia,Missouri,1992
+453,453,N Carolina,Miami OH,N Carolina,1992
+454,454,Ohio State,Miss Val St,Ohio State,1992
+455,455,Seton Hall,La Salle,Seton Hall,1992
+456,456,USC,ULM,USC,1992
+457,457,Cincinnati,Delaware,Cincinnati,1992
+458,458,E Tenn St,Arizona,E Tenn St,1992
+459,459,Iowa State,Charlotte,Iowa State,1992
+460,460,Kansas,Howard,Kansas,1992
+461,461,Kentucky,Old Dominion,Kentucky,1992
+462,462,Louisville,Wake Forest,Louisville,1992
+463,463,U Mass,Fordham,U Mass,1992
+464,464,Michigan,Temple,Michigan,1992
+465,465,Michigan St,Missouri St,Michigan St,1992
+466,466,N Mex State,DePaul,N Mex State,1992
+467,467,Oklahoma St,Ga Southern,Oklahoma St,1992
+468,468,Syracuse,Princeton,Syracuse,1992
+469,469,Tulane,St Johns,Tulane,1992
+470,470,UCLA,Rob Morris,UCLA,1992
+471,471,LA Lafayette,Oklahoma,LA Lafayette,1992
+472,472,UTEP,Evansville,UTEP,1992
+473,473,Duke,Iowa,Duke,1992
+474,474,Florida St,Georgetown,Florida St,1992
+475,475,GA Tech,USC,GA Tech,1992
+476,476,Indiana,LSU,Indiana,1992
+477,477,Memphis,Arkansas,Memphis,1992
+478,478,N Carolina,Alabama,N Carolina,1992
+479,479,Ohio State,Connecticut,Ohio State,1992
+480,480,Seton Hall,Missouri,Seton Hall,1992
+481,481,Cincinnati,Michigan St,Cincinnati,1992
+482,482,Kentucky,Iowa State,Kentucky,1992
+483,483,U Mass,Syracuse,U Mass,1992
+484,484,Michigan,E Tenn St,Michigan,1992
+485,485,N Mex State,LA Lafayette,N Mex State,1992
+486,486,Oklahoma St,Tulane,Oklahoma St,1992
+487,487,UCLA,Louisville,UCLA,1992
+488,488,UTEP,Kansas,UTEP,1992
+489,489,Duke,Seton Hall,Duke,1992
+490,490,Indiana,Florida St,Indiana,1992
+491,491,Kentucky,U Mass,Kentucky,1992
+492,492,UCLA,N Mex State,UCLA,1992
+493,493,Cincinnati,UTEP,Cincinnati,1992
+494,494,Memphis,GA Tech,Memphis,1992
+495,495,Michigan,Oklahoma St,Michigan,1992
+496,496,Ohio State,N Carolina,Ohio State,1992
+497,497,Duke,Kentucky,Duke,1992
+498,498,Indiana,UCLA,Indiana,1992
+499,499,Cincinnati,Memphis,Cincinnati,1992
+500,500,Michigan,Ohio State,Michigan,1992
+501,501,Duke,Indiana,Duke,1992
+502,502,Michigan,Cincinnati,Michigan,1992
+503,503,Duke,Michigan,Duke,1992
+504,504,Arkansas,Holy Cross,Arkansas,1993
+505,505,BYU,S Methodist,BYU,1993
+506,506,California,LSU,California,1993
+507,507,Duke,S Illinois,Duke,1993
+508,508,Florida St,Evansville,Florida St,1993
+509,509,Illinois,Lg Beach St,Illinois,1993
+510,510,Kansas,Ball St,Kansas,1993
+511,511,N Carolina,East Carolina,N Carolina,1993
+512,512,Rhode Island,Purdue,Rhode Island,1993
+513,513,Santa Clara,Arizona,Santa Clara,1993
+514,514,Seton Hall,Tennessee St,Seton Hall,1993
+515,515,St Johns,Texas Tech,St Johns,1993
+516,516,Temple,Missouri,Temple,1993
+517,517,Tulane,Kansas St,Tulane,1993
+518,518,Vanderbilt,Boise State,Vanderbilt,1993
+519,519,W Kentucky,Memphis,W Kentucky,1993
+520,520,Cincinnati,Coppin St,Cincinnati,1993
+521,521,Geo Wshgtn,New Mexico,Geo Wshgtn,1993
+522,522,Indiana,Wright State,Indiana,1993
+523,523,Iowa,ULM,Iowa,1993
+524,524,Kentucky,Rider,Kentucky,1993
+525,525,Louisville,Delaware,Louisville,1993
+526,526,U Mass,U Penn,U Mass,1993
+527,527,Michigan,Coastal Car,Michigan,1993
+528,528,N Mex State,Nebraska,N Mex State,1993
+529,529,Oklahoma St,Marquette,Oklahoma St,1993
+530,530,Southern,GA Tech,Southern,1993
+531,531,UCLA,Iowa State,UCLA,1993
+532,532,Utah,Pittsburgh,Utah,1993
+533,533,Virginia,Manhattan,Virginia,1993
+534,534,Wake Forest,Chattanooga,Wake Forest,1993
+535,535,Xavier,New Orleans,Xavier,1993
+536,536,Arkansas,St Johns,Arkansas,1993
+537,537,California,Duke,California,1993
+538,538,Florida St,Tulane,Florida St,1993
+539,539,Kansas,BYU,Kansas,1993
+540,540,N Carolina,Rhode Island,N Carolina,1993
+541,541,Temple,Santa Clara,Temple,1993
+542,542,Vanderbilt,Illinois,Vanderbilt,1993
+543,543,W Kentucky,Seton Hall,W Kentucky,1993
+544,544,Cincinnati,N Mex State,Cincinnati,1993
+545,545,Geo Wshgtn,Southern,Geo Wshgtn,1993
+546,546,Indiana,Xavier,Indiana,1993
+547,547,Kentucky,Utah,Kentucky,1993
+548,548,Louisville,Oklahoma St,Louisville,1993
+549,549,Michigan,UCLA,Michigan,1993
+550,550,Virginia,U Mass,Virginia,1993
+551,551,Wake Forest,Iowa,Wake Forest,1993
+552,552,Florida St,W Kentucky,Florida St,1993
+553,553,Indiana,Louisville,Indiana,1993
+554,554,Kansas,California,Kansas,1993
+555,555,Kentucky,Wake Forest,Kentucky,1993
+556,556,Cincinnati,Virginia,Cincinnati,1993
+557,557,Michigan,Geo Wshgtn,Michigan,1993
+558,558,N Carolina,Arkansas,N Carolina,1993
+559,559,Temple,Vanderbilt,Temple,1993
+560,560,Kansas,Indiana,Kansas,1993
+561,561,Kentucky,Florida St,Kentucky,1993
+562,562,Michigan,Temple,Michigan,1993
+563,563,N Carolina,Cincinnati,N Carolina,1993
+564,564,Michigan,Kentucky,Michigan,1993
+565,565,N Carolina,Kansas,N Carolina,1993
+566,566,N Carolina,Michigan,N Carolina,1993
+567,567,Alabama,Providence,Alabama,1994
+568,568,Connecticut,Rider,Connecticut,1994
+569,569,Florida,James Mad,Florida,1994
+570,570,Geo Wshgtn,UAB,Geo Wshgtn,1994
+571,571,Kansas,Chattanooga,Kansas,1994
+572,572,Maryland,Saint Louis,Maryland,1994
+573,573,U Mass,Texas St,U Mass,1994
+574,574,Michigan,Pepperdine,Michigan,1994
+575,575,Missouri,Navy,Missouri,1994
+576,576,U Penn,Nebraska,U Penn,1994
+577,577,Purdue,Central FL,Purdue,1994
+578,578,Syracuse,Hawaii,Syracuse,1994
+579,579,Texas,W Kentucky,Texas,1994
+580,580,Wake Forest,Col Charlestn,Wake Forest,1994
+581,581,WI-Grn Bay,California,WI-Grn Bay,1994
+582,582,Wisconsin,Cincinnati,Wisconsin,1994
+583,583,Arizona,Loyola-MD,Arizona,1994
+584,584,Arkansas,NC A&T,Arkansas,1994
+585,585,Boston College,Washington St,Boston College,1994
+586,586,Duke,TX Southern,Duke,1994
+587,587,Georgetown,Illinois,Georgetown,1994
+588,588,Indiana,Ohio,Indiana,1994
+589,589,Kentucky,Tennessee St,Kentucky,1994
+590,590,Louisville,Boise State,Louisville,1994
+591,591,Marquette,LA Lafayette,Marquette,1994
+592,592,Michigan St,Seton Hall,Michigan St,1994
+593,593,Minnesota,S Illinois,Minnesota,1994
+594,594,N Carolina,Liberty,N Carolina,1994
+595,595,Oklahoma St,N Mex State,Oklahoma St,1994
+596,596,Temple,Drexel,Temple,1994
+597,597,Tulsa,UCLA,Tulsa,1994
+598,598,Virginia,New Mexico,Virginia,1994
+599,599,Connecticut,Geo Wshgtn,Connecticut,1994
+600,600,Florida,U Penn,Florida,1994
+601,601,Kansas,Wake Forest,Kansas,1994
+602,602,Maryland,U Mass,Maryland,1994
+603,603,Michigan,Texas,Michigan,1994
+604,604,Missouri,Wisconsin,Missouri,1994
+605,605,Purdue,Alabama,Purdue,1994
+606,606,Syracuse,WI-Grn Bay,Syracuse,1994
+607,607,Arizona,Virginia,Arizona,1994
+608,608,Arkansas,Georgetown,Arkansas,1994
+609,609,Boston College,N Carolina,Boston College,1994
+610,610,Duke,Michigan St,Duke,1994
+611,611,Indiana,Temple,Indiana,1994
+612,612,Louisville,Minnesota,Louisville,1994
+613,613,Marquette,Kentucky,Marquette,1994
+614,614,Tulsa,Oklahoma St,Tulsa,1994
+615,615,Arizona,Louisville,Arizona,1994
+616,616,Duke,Marquette,Duke,1994
+617,617,Missouri,Syracuse,Missouri,1994
+618,618,Purdue,Kansas,Purdue,1994
+619,619,Arkansas,Tulsa,Arkansas,1994
+620,620,Boston College,Indiana,Boston College,1994
+621,621,Florida,Connecticut,Florida,1994
+622,622,Michigan,Maryland,Michigan,1994
+623,623,Arizona,Missouri,Arizona,1994
+624,624,Duke,Purdue,Duke,1994
+625,625,Arkansas,Michigan,Arkansas,1994
+626,626,Florida,Boston College,Florida,1994
+627,627,Arkansas,Arizona,Arkansas,1994
+628,628,Duke,Florida,Duke,1994
+629,629,Arkansas,Duke,Arkansas,1994
+630,630,Alabama,U Penn,Alabama,1995
+631,631,Arizona St,Ball St,Arizona St,1995
+632,632,Cincinnati,Temple,Cincinnati,1995
+633,633,Connecticut,Chattanooga,Connecticut,1995
+634,634,Kansas,Colgate,Kansas,1995
+635,635,Kentucky,Mt St Marys,Kentucky,1995
+636,636,Manhattan,Oklahoma,Manhattan,1995
+637,637,Maryland,Gonzaga,Maryland,1995
+638,638,Miami OH,Arizona,Miami OH,1995
+639,639,Oklahoma St,Drexel,Oklahoma St,1995
+640,640,Saint Louis,Minnesota,Saint Louis,1995
+641,641,Texas,Oregon,Texas,1995
+642,642,Tulane,BYU,Tulane,1995
+643,643,Virginia,Nicholls St,Virginia,1995
+644,644,W Kentucky,Michigan,W Kentucky,1995
+645,645,Wake Forest,NC A&T,Wake Forest,1995
+646,646,Arkansas,TX Southern,Arkansas,1995
+647,647,Georgetown,Xavier,Georgetown,1995
+648,648,Iowa State,Florida,Iowa State,1995
+649,649,U Mass,St Peter's,U Mass,1995
+650,650,Memphis,Louisville,Memphis,1995
+651,651,Miss State,Santa Clara,Miss State,1995
+652,652,Missouri,Indiana,Missouri,1995
+653,653,N Carolina,Murray St,N Carolina,1995
+654,654,Old Dominion,Villanova,Old Dominion,1995
+655,655,Purdue,WI-Grn Bay,Purdue,1995
+656,656,Stanford,Charlotte,Stanford,1995
+657,657,Syracuse,S Illinois,Syracuse,1995
+658,658,Tulsa,Illinois,Tulsa,1995
+659,659,UCLA,Florida Intl,UCLA,1995
+660,660,Utah,Lg Beach St,Utah,1995
+661,661,Weber State,Michigan St,Weber State,1995
+662,662,Arizona St,Manhattan,Arizona St,1995
+663,663,Connecticut,Cincinnati,Connecticut,1995
+664,664,Kansas,W Kentucky,Kansas,1995
+665,665,Kentucky,Tulane,Kentucky,1995
+666,666,Maryland,Texas,Maryland,1995
+667,667,Oklahoma St,Alabama,Oklahoma St,1995
+668,668,Virginia,Miami OH,Virginia,1995
+669,669,Wake Forest,Saint Louis,Wake Forest,1995
+670,670,Arkansas,Syracuse,Arkansas,1995
+671,671,Georgetown,Weber State,Georgetown,1995
+672,672,U Mass,Stanford,U Mass,1995
+673,673,Memphis,Purdue,Memphis,1995
+674,674,Miss State,Utah,Miss State,1995
+675,675,N Carolina,Iowa State,N Carolina,1995
+676,676,Tulsa,Old Dominion,Tulsa,1995
+677,677,UCLA,Missouri,UCLA,1995
+678,678,Connecticut,Maryland,Connecticut,1995
+679,679,Kentucky,Arizona St,Kentucky,1995
+680,680,N Carolina,Georgetown,N Carolina,1995
+681,681,UCLA,Miss State,UCLA,1995
+682,682,Arkansas,Memphis,Arkansas,1995
+683,683,U Mass,Tulsa,U Mass,1995
+684,684,Oklahoma St,Wake Forest,Oklahoma St,1995
+685,685,Virginia,Kansas,Virginia,1995
+686,686,N Carolina,Kentucky,N Carolina,1995
+687,687,UCLA,Connecticut,UCLA,1995
+688,688,Arkansas,Virginia,Arkansas,1995
+689,689,Oklahoma St,U Mass,Oklahoma St,1995
+690,690,Arkansas,N Carolina,Arkansas,1995
+691,691,UCLA,Oklahoma St,UCLA,1995
+692,692,UCLA,Arkansas,UCLA,1995
+693,693,Arkansas,Penn St,Arkansas,1996
+694,694,Connecticut,Colgate,Connecticut,1996
+695,695,Drexel,Memphis,Drexel,1996
+696,696,E Michigan,Duke,E Michigan,1996
+697,697,Georgia,Clemson,Georgia,1996
+698,698,Iowa State,California,Iowa State,1996
+699,699,Kentucky,San Jose St,Kentucky,1996
+700,700,Marquette,Monmouth NJ,Marquette,1996
+701,701,U Mass,Central FL,U Mass,1996
+702,702,Miss State,VCU,Miss State,1996
+703,703,Princeton,UCLA,Princeton,1996
+704,704,Purdue,W Carolina,Purdue,1996
+705,705,Stanford,Bradley,Stanford,1996
+706,706,Syracuse,Montana St,Syracuse,1996
+707,707,Utah,Canisius,Utah,1996
+708,708,VA Tech,WI-Grn Bay,VA Tech,1996
+709,709,Arizona,Valparaiso,Arizona,1996
+710,710,Boston College,Indiana,Boston College,1996
+711,711,Cincinnati,NC-Grnsboro,Cincinnati,1996
+712,712,Georgetown,Miss Val St,Georgetown,1996
+713,713,GA Tech,Austin Peay,GA Tech,1996
+714,714,Iowa,Geo Wshgtn,Iowa,1996
+715,715,Kansas,S Carolina St,Kansas,1996
+716,716,Louisville,Tulsa,Louisville,1996
+717,717,New Mexico,Kansas St,New Mexico,1996
+718,718,N Carolina,New Orleans,N Carolina,1996
+719,719,Santa Clara,Maryland,Santa Clara,1996
+720,720,Temple,Oklahoma,Temple,1996
+721,721,Texas,Michigan,Texas,1996
+722,722,Texas Tech,N Illinois,Texas Tech,1996
+723,723,Villanova,Portland,Villanova,1996
+724,724,Wake Forest,ULM,Wake Forest,1996
+725,725,Arkansas,Marquette,Arkansas,1996
+726,726,Connecticut,E Michigan,Connecticut,1996
+727,727,Georgia,Purdue,Georgia,1996
+728,728,Kentucky,VA Tech,Kentucky,1996
+729,729,U Mass,Stanford,U Mass,1996
+730,730,Miss State,Princeton,Miss State,1996
+731,731,Syracuse,Drexel,Syracuse,1996
+732,732,Utah,Iowa State,Utah,1996
+733,733,Arizona,Iowa,Arizona,1996
+734,734,Cincinnati,Temple,Cincinnati,1996
+735,735,Georgetown,New Mexico,Georgetown,1996
+736,736,GA Tech,Boston College,GA Tech,1996
+737,737,Kansas,Santa Clara,Kansas,1996
+738,738,Louisville,Villanova,Louisville,1996
+739,739,Texas Tech,N Carolina,Texas Tech,1996
+740,740,Wake Forest,Texas,Wake Forest,1996
+741,741,Georgetown,Texas Tech,Georgetown,1996
+742,742,Kentucky,Utah,Kentucky,1996
+743,743,U Mass,Arkansas,U Mass,1996
+744,744,Wake Forest,Louisville,Wake Forest,1996
+745,745,Cincinnati,GA Tech,Cincinnati,1996
+746,746,Kansas,Arizona,Kansas,1996
+747,747,Miss State,Connecticut,Miss State,1996
+748,748,Syracuse,Georgia,Syracuse,1996
+749,749,Kentucky,Wake Forest,Kentucky,1996
+750,750,U Mass,Georgetown,U Mass,1996
+751,751,Miss State,Cincinnati,Miss State,1996
+752,752,Syracuse,Kansas,Syracuse,1996
+753,753,Kentucky,U Mass,Kentucky,1996
+754,754,Syracuse,Miss State,Syracuse,1996
+755,755,Kentucky,Syracuse,Kentucky,1996
+756,756,Arizona,South Alabama,Arizona,1997
+757,757,Boston College,Valparaiso,Boston College,1997
+758,758,California,Princeton,California,1997
+759,759,Cincinnati,Butler,Cincinnati,1997
+760,760,Col Charlestn,Maryland,Col Charlestn,1997
+761,761,Colorado,Indiana,Colorado,1997
+762,762,Iowa,Virginia,Iowa,1997
+763,763,Iowa State,Illinois St,Iowa State,1997
+764,764,Kansas,Jackson St,Kansas,1997
+765,765,Kentucky,Montana,Kentucky,1997
+766,766,N Carolina,Fairfield,N Carolina,1997
+767,767,Purdue,Rhode Island,Purdue,1997
+768,768,St Josephs,Pacific,St Josephs,1997
+769,769,UCLA,Charleston So,UCLA,1997
+770,770,Villanova,LIU-Brooklyn,Villanova,1997
+771,771,Xavier,Vanderbilt,Xavier,1997
+772,772,Charlotte,Georgetown,Charlotte,1997
+773,773,Chattanooga,Georgia,Chattanooga,1997
+774,774,Clemson,Miami OH,Clemson,1997
+775,775,Coppin St,S Carolina,Coppin St,1997
+776,776,Duke,Murray St,Duke,1997
+777,777,Illinois,USC,Illinois,1997
+778,778,Louisville,U Mass,Louisville,1997
+779,779,Minnesota,Texas St,Minnesota,1997
+780,780,New Mexico,Old Dominion,New Mexico,1997
+781,781,Providence,Marquette,Providence,1997
+782,782,Stanford,Oklahoma,Stanford,1997
+783,783,Temple,Mississippi,Temple,1997
+784,784,Texas,Wisconsin,Texas,1997
+785,785,Tulsa,Boston Univ,Tulsa,1997
+786,786,Utah,Navy,Utah,1997
+787,787,Wake Forest,St Marys,Wake Forest,1997
+788,788,Arizona,Col Charlestn,Arizona,1997
+789,789,California,Villanova,California,1997
+790,790,Iowa State,Cincinnati,Iowa State,1997
+791,791,Kansas,Purdue,Kansas,1997
+792,792,Kentucky,Iowa,Kentucky,1997
+793,793,N Carolina,Colorado,N Carolina,1997
+794,794,St Josephs,Boston College,St Josephs,1997
+795,795,UCLA,Xavier,UCLA,1997
+796,796,Chattanooga,Illinois,Chattanooga,1997
+797,797,Clemson,Tulsa,Clemson,1997
+798,798,Louisville,New Mexico,Louisville,1997
+799,799,Minnesota,Temple,Minnesota,1997
+800,800,Providence,Duke,Providence,1997
+801,801,Stanford,Wake Forest,Stanford,1997
+802,802,Texas,Coppin St,Texas,1997
+803,803,Utah,Charlotte,Utah,1997
+804,804,Kentucky,St Josephs,Kentucky,1997
+805,805,Minnesota,Clemson,Minnesota,1997
+806,806,UCLA,Iowa State,UCLA,1997
+807,807,Utah,Stanford,Utah,1997
+808,808,Arizona,Kansas,Arizona,1997
+809,809,Louisville,Texas,Louisville,1997
+810,810,N Carolina,California,N Carolina,1997
+811,811,Providence,Chattanooga,Providence,1997
+812,812,Kentucky,Utah,Kentucky,1997
+813,813,Minnesota,UCLA,Minnesota,1997
+814,814,Arizona,Providence,Arizona,1997
+815,815,N Carolina,Louisville,N Carolina,1997
+816,816,Arizona,N Carolina,Arizona,1997
+817,817,Kentucky,Minnesota,Kentucky,1997
+818,818,Arizona,Kentucky,Arizona,1997
+819,819,Arizona,Nicholls St,Arizona,1998
+820,820,Arkansas,Nebraska,Arkansas,1998
+821,821,Charlotte,IL Chicago,Charlotte,1998
+822,822,Cincinnati,Northern Arizona,Cincinnati,1998
+823,823,Connecticut,F Dickinson,Connecticut,1998
+824,824,Illinois,South Alabama,Illinois,1998
+825,825,Illinois St,Tennessee,Illinois St,1998
+826,826,Indiana,Oklahoma,Indiana,1998
+827,827,Maryland,Utah State,Maryland,1998
+828,828,Michigan St,E Michigan,Michigan St,1998
+829,829,N Carolina,Navy,N Carolina,1998
+830,830,Princeton,UNLV,Princeton,1998
+831,831,Richmond,S Carolina,Richmond,1998
+832,832,Utah,San Francisco,Utah,1998
+833,833,Washington,Xavier,Washington,1998
+834,834,W Virginia,Temple,W Virginia,1998
+835,835,Detroit,St Johns,Detroit,1998
+836,836,Duke,Radford,Duke,1998
+837,837,Florida St,TX Christian,Florida St,1998
+838,838,Kansas,Prairie View,Kansas,1998
+839,839,Kentucky,S Carolina St,Kentucky,1998
+840,840,Michigan,Davidson,Michigan,1998
+841,841,New Mexico,Butler,New Mexico,1998
+842,842,Oklahoma St,Geo Wshgtn,Oklahoma St,1998
+843,843,Purdue,Delaware,Purdue,1998
+844,844,Rhode Island,Murray St,Rhode Island,1998
+845,845,Saint Louis,U Mass,Saint Louis,1998
+846,846,Stanford,Col Charlestn,Stanford,1998
+847,847,Syracuse,Iona,Syracuse,1998
+848,848,UCLA,Miami (FL),UCLA,1998
+849,849,Valparaiso,Mississippi,Valparaiso,1998
+850,850,W Michigan,Clemson,W Michigan,1998
+851,851,Arizona,Illinois St,Arizona,1998
+852,852,Connecticut,Indiana,Connecticut,1998
+853,853,Maryland,Illinois,Maryland,1998
+854,854,Michigan St,Princeton,Michigan St,1998
+855,855,N Carolina,Charlotte,N Carolina,1998
+856,856,Utah,Arkansas,Utah,1998
+857,857,Washington,Richmond,Washington,1998
+858,858,W Virginia,Cincinnati,W Virginia,1998
+859,859,Duke,Oklahoma St,Duke,1998
+860,860,Kentucky,Saint Louis,Kentucky,1998
+861,861,Purdue,Detroit,Purdue,1998
+862,862,Rhode Island,Kansas,Rhode Island,1998
+863,863,Stanford,W Michigan,Stanford,1998
+864,864,Syracuse,New Mexico,Syracuse,1998
+865,865,UCLA,Michigan,UCLA,1998
+866,866,Valparaiso,Florida St,Valparaiso,1998
+867,867,Arizona,Maryland,Arizona,1998
+868,868,Connecticut,Washington,Connecticut,1998
+869,869,N Carolina,Michigan St,N Carolina,1998
+870,870,Utah,W Virginia,Utah,1998
+871,871,Duke,Syracuse,Duke,1998
+872,872,Kentucky,UCLA,Kentucky,1998
+873,873,Rhode Island,Valparaiso,Rhode Island,1998
+874,874,Stanford,Purdue,Stanford,1998
+875,875,N Carolina,Connecticut,N Carolina,1998
+876,876,Utah,Arizona,Utah,1998
+877,877,Kentucky,Duke,Kentucky,1998
+878,878,Stanford,Rhode Island,Stanford,1998
+879,879,Kentucky,Stanford,Kentucky,1998
+880,880,Utah,N Carolina,Utah,1998
+881,881,Kentucky,Utah,Kentucky,1998
+882,882,Arkansas,Siena,Arkansas,1999
+883,883,Auburn,Winthrop,Auburn,1999
+884,884,Connecticut,UT San Antonio,Connecticut,1999
+885,885,Creighton,Louisville,Creighton,1999
+886,886,Detroit,UCLA,Detroit,1999
+887,887,Florida,U Penn,Florida,1999
+888,888,Gonzaga,Minnesota,Gonzaga,1999
+889,889,Indiana,Geo Wshgtn,Indiana,1999
+890,890,Iowa,UAB,Iowa,1999
+891,891,Maryland,Valparaiso,Maryland,1999
+892,892,New Mexico,Missouri,New Mexico,1999
+893,893,Ohio State,Murray St,Ohio State,1999
+894,894,Oklahoma St,Syracuse,Oklahoma St,1999
+895,895,St Johns,Samford,St Johns,1999
+896,896,Stanford,Alcorn St,Stanford,1999
+897,897,Weber State,N Carolina,Weber State,1999
+898,898,Charlotte,Rhode Island,Charlotte,1999
+899,899,Cincinnati,George Mason,Cincinnati,1999
+900,900,Duke,Florida A&M,Duke,1999
+901,901,Kansas,Evansville,Kansas,1999
+902,902,Kentucky,N Mex State,Kentucky,1999
+903,903,Miami (FL),Lafayette,Miami (FL),1999
+904,904,Miami OH,Washington,Miami OH,1999
+905,905,Michigan St,Mt St Marys,Michigan St,1999
+906,906,Mississippi,Villanova,Mississippi,1999
+907,907,Missouri St,Wisconsin,Missouri St,1999
+908,908,Oklahoma,Arizona,Oklahoma,1999
+909,909,Purdue,Texas,Purdue,1999
+910,910,Temple,Kent State,Temple,1999
+911,911,Tennessee,Delaware,Tennessee,1999
+912,912,Tulsa,Col Charlestn,Tulsa,1999
+913,913,Utah,Arkansas St,Utah,1999
+914,914,Auburn,Oklahoma St,Auburn,1999
+915,915,Connecticut,New Mexico,Connecticut,1999
+916,916,Florida,Weber State,Florida,1999
+917,917,Gonzaga,Stanford,Gonzaga,1999
+918,918,Iowa,Arkansas,Iowa,1999
+919,919,Maryland,Creighton,Maryland,1999
+920,920,Ohio State,Detroit,Ohio State,1999
+921,921,St Johns,Indiana,St Johns,1999
+922,922,Duke,Tulsa,Duke,1999
+923,923,Kentucky,Kansas,Kentucky,1999
+924,924,Miami OH,Utah,Miami OH,1999
+925,925,Michigan St,Mississippi,Michigan St,1999
+926,926,Missouri St,Tennessee,Missouri St,1999
+927,927,Oklahoma,Charlotte,Oklahoma,1999
+928,928,Purdue,Miami (FL),Purdue,1999
+929,929,Temple,Cincinnati,Temple,1999
+930,930,Connecticut,Iowa,Connecticut,1999
+931,931,Gonzaga,Florida,Gonzaga,1999
+932,932,Ohio State,Auburn,Ohio State,1999
+933,933,St Johns,Maryland,St Johns,1999
+934,934,Duke,Missouri St,Duke,1999
+935,935,Kentucky,Miami OH,Kentucky,1999
+936,936,Michigan St,Oklahoma,Michigan St,1999
+937,937,Temple,Purdue,Temple,1999
+938,938,Connecticut,Gonzaga,Connecticut,1999
+939,939,Ohio State,St Johns,Ohio State,1999
+940,940,Duke,Temple,Duke,1999
+941,941,Michigan St,Kentucky,Michigan St,1999
+942,942,Connecticut,Ohio State,Connecticut,1999
+943,943,Duke,Michigan St,Duke,1999
+944,944,Connecticut,Duke,Connecticut,1999
+945,945,Arizona,Jackson St,Arizona,2000
+946,946,Auburn,Creighton,Auburn,2000
+947,947,Gonzaga,Louisville,Gonzaga,2000
+948,948,Iowa State,Central Conn,Iowa State,2000
+949,949,Kentucky,St Bonavent,Kentucky,2000
+950,950,LSU,SE Missouri St,LSU,2000
+951,951,Maryland,Iona,Maryland,2000
+952,952,Michigan St,Valparaiso,Michigan St,2000
+953,953,Oklahoma,Winthrop,Oklahoma,2000
+954,954,Purdue,Dayton,Purdue,2000
+955,955,St Johns,Northern Arizona,St Johns,2000
+956,956,Syracuse,Samford,Syracuse,2000
+957,957,Texas,Indiana St,Texas,2000
+958,958,UCLA,Ball St,UCLA,2000
+959,959,Utah,Saint Louis,Utah,2000
+960,960,Wisconsin,Fresno St,Wisconsin,2000
+961,961,Cincinnati,NC-Wilmgton,Cincinnati,2000
+962,962,Connecticut,Utah State,Connecticut,2000
+963,963,Duke,Lamar,Duke,2000
+964,964,Florida,Butler,Florida,2000
+965,965,Illinois,U Penn,Illinois,2000
+966,966,Kansas,DePaul,Kansas,2000
+967,967,Miami (FL),Arkansas,Miami (FL),2000
+968,968,N Carolina,Missouri,N Carolina,2000
+969,969,Ohio State,App State,Ohio State,2000
+970,970,Oklahoma St,Hofstra,Oklahoma St,2000
+971,971,Pepperdine,Indiana,Pepperdine,2000
+972,972,Seton Hall,Oregon,Seton Hall,2000
+973,973,Stanford,S Carolina St,Stanford,2000
+974,974,Temple,Lafayette,Temple,2000
+975,975,Tennessee,LA Lafayette,Tennessee,2000
+976,976,Tulsa,UNLV,Tulsa,2000
+977,977,Gonzaga,St Johns,Gonzaga,2000
+978,978,Iowa State,Auburn,Iowa State,2000
+979,979,LSU,Texas,LSU,2000
+980,980,Michigan St,Utah,Michigan St,2000
+981,981,Purdue,Oklahoma,Purdue,2000
+982,982,Syracuse,Kentucky,Syracuse,2000
+983,983,UCLA,Maryland,UCLA,2000
+984,984,Wisconsin,Arizona,Wisconsin,2000
+985,985,Duke,Kansas,Duke,2000
+986,986,Florida,Illinois,Florida,2000
+987,987,Miami (FL),Ohio State,Miami (FL),2000
+988,988,N Carolina,Stanford,N Carolina,2000
+989,989,Oklahoma St,Pepperdine,Oklahoma St,2000
+990,990,Seton Hall,Temple,Seton Hall,2000
+991,991,Tennessee,Connecticut,Tennessee,2000
+992,992,Tulsa,Cincinnati,Tulsa,2000
+993,993,Iowa State,UCLA,Iowa State,2000
+994,994,Michigan St,Syracuse,Michigan St,2000
+995,995,Purdue,Gonzaga,Purdue,2000
+996,996,Wisconsin,LSU,Wisconsin,2000
+997,997,Florida,Duke,Florida,2000
+998,998,N Carolina,Tennessee,N Carolina,2000
+999,999,Oklahoma St,Seton Hall,Oklahoma St,2000
+1000,1000,Tulsa,Miami (FL),Tulsa,2000
+1001,1001,Michigan St,Iowa State,Michigan St,2000
+1002,1002,Wisconsin,Purdue,Wisconsin,2000
+1003,1003,Florida,Oklahoma St,Florida,2000
+1004,1004,N Carolina,Tulsa,N Carolina,2000
+1005,1005,Florida,N Carolina,Florida,2000
+1006,1006,Michigan St,Wisconsin,Michigan St,2000
+1007,1007,Michigan St,Florida,Michigan St,2000
+1008,1008,NW State,Winthrop,NW State,2001
+1009,1009,Boston College,Southern Utah,Boston College,2001
+1010,1010,Cincinnati,BYU,Cincinnati,2001
+1011,1011,Duke,Monmouth NJ,Duke,2001
+1012,1012,Georgetown,Arkansas,Georgetown,2001
+1013,1013,Georgia St,Wisconsin,Georgia St,2001
+1014,1014,Hampton,Iowa State,Hampton,2001
+1015,1015,Iowa,Creighton,Iowa,2001
+1016,1016,Kent State,Indiana,Kent State,2001
+1017,1017,Kentucky,Holy Cross,Kentucky,2001
+1018,1018,Maryland,George Mason,Maryland,2001
+1019,1019,Missouri,Georgia,Missouri,2001
+1020,1020,St Josephs,GA Tech,St Josephs,2001
+1021,1021,Stanford,NC-Grnsboro,Stanford,2001
+1022,1022,UCLA,Hofstra,UCLA,2001
+1023,1023,USC,Oklahoma St,USC,2001
+1024,1024,Utah State,Ohio State,Utah State,2001
+1025,1025,Arizona,E Illinois,Arizona,2001
+1026,1026,Butler,Wake Forest,Butler,2001
+1027,1027,Charlotte,Tennessee,Charlotte,2001
+1028,1028,Florida,W Kentucky,Florida,2001
+1029,1029,Fresno St,California,Fresno St,2001
+1030,1030,Gonzaga,Virginia,Gonzaga,2001
+1031,1031,Illinois,NW State,Illinois,2001
+1032,1032,Indiana St,Oklahoma,Indiana St,2001
+1033,1033,Kansas,CS Northridge,Kansas,2001
+1034,1034,Michigan St,Alabama St,Michigan St,2001
+1035,1035,Mississippi,Iona,Mississippi,2001
+1036,1036,N Carolina,Princeton,N Carolina,2001
+1037,1037,Notre Dame,Xavier,Notre Dame,2001
+1038,1038,Penn St,Providence,Penn St,2001
+1039,1039,Syracuse,Hawaii,Syracuse,2001
+1040,1040,Temple,Texas,Temple,2001
+1041,1041,Cincinnati,Kent State,Cincinnati,2001
+1042,1042,Duke,Missouri,Duke,2001
+1043,1043,Georgetown,Hampton,Georgetown,2001
+1044,1044,Kentucky,Iowa,Kentucky,2001
+1045,1045,Maryland,Georgia St,Maryland,2001
+1046,1046,Stanford,St Josephs,Stanford,2001
+1047,1047,UCLA,Utah State,UCLA,2001
+1048,1048,USC,Boston College,USC,2001
+1049,1049,Arizona,Butler,Arizona,2001
+1050,1050,Gonzaga,Indiana St,Gonzaga,2001
+1051,1051,Illinois,Charlotte,Illinois,2001
+1052,1052,Kansas,Syracuse,Kansas,2001
+1053,1053,Michigan St,Fresno St,Michigan St,2001
+1054,1054,Mississippi,Notre Dame,Mississippi,2001
+1055,1055,Penn St,N Carolina,Penn St,2001
+1056,1056,Temple,Florida,Temple,2001
+1057,1057,Duke,UCLA,Duke,2001
+1058,1058,Maryland,Georgetown,Maryland,2001
+1059,1059,Stanford,Cincinnati,Stanford,2001
+1060,1060,USC,Kentucky,USC,2001
+1061,1061,Arizona,Mississippi,Arizona,2001
+1062,1062,Illinois,Kansas,Illinois,2001
+1063,1063,Michigan St,Gonzaga,Michigan St,2001
+1064,1064,Temple,Penn St,Temple,2001
+1065,1065,Duke,USC,Duke,2001
+1066,1066,Maryland,Stanford,Maryland,2001
+1067,1067,Arizona,Illinois,Arizona,2001
+1068,1068,Michigan St,Temple,Michigan St,2001
+1069,1069,Arizona,Michigan St,Arizona,2001
+1070,1070,Duke,Maryland,Duke,2001
+1071,1071,Duke,Arizona,Duke,2001
+1072,1072,Siena,Alcorn St,Siena,2002
+1073,1073,Alabama,FL Atlantic,Alabama,2002
+1074,1074,Arizona,UCSB,Arizona,2002
+1075,1075,Duke,Winthrop,Duke,2002
+1076,1076,Indiana,Utah,Indiana,2002
+1077,1077,Kansas,Holy Cross,Kansas,2002
+1078,1078,Kent State,Oklahoma St,Kent State,2002
+1079,1079,Kentucky,Valparaiso,Kentucky,2002
+1080,1080,Missouri,Miami (FL),Missouri,2002
+1081,1081,Notre Dame,Charlotte,Notre Dame,2002
+1082,1082,Ohio State,Davidson,Ohio State,2002
+1083,1083,Oregon,Montana,Oregon,2002
+1084,1084,Stanford,W Kentucky,Stanford,2002
+1085,1085,Tulsa,Marquette,Tulsa,2002
+1086,1086,NC-Wilmgton,USC,NC-Wilmgton,2002
+1087,1087,Wake Forest,Pepperdine,Wake Forest,2002
+1088,1088,Wyoming,Gonzaga,Wyoming,2002
+1089,1089,California,U Penn,California,2002
+1090,1090,Cincinnati,Boston Univ,Cincinnati,2002
+1091,1091,Connecticut,Hampton,Connecticut,2002
+1092,1092,Creighton,Florida,Creighton,2002
+1093,1093,Georgia,Murray St,Georgia,2002
+1094,1094,Illinois,San Diego St,Illinois,2002
+1095,1095,Maryland,Siena,Maryland,2002
+1096,1096,Miss State,McNeese St,Miss State,2002
+1097,1097,NC State,Michigan St,NC State,2002
+1098,1098,Oklahoma,IL Chicago,Oklahoma,2002
+1099,1099,Pittsburgh,Central Conn,Pittsburgh,2002
+1100,1100,S Illinois,Texas Tech,S Illinois,2002
+1101,1101,Texas,Boston College,Texas,2002
+1102,1102,UCLA,Mississippi,UCLA,2002
+1103,1103,Wisconsin,St Johns,Wisconsin,2002
+1104,1104,Xavier,Hawaii,Xavier,2002
+1105,1105,Arizona,Wyoming,Arizona,2002
+1106,1106,Duke,Notre Dame,Duke,2002
+1107,1107,Indiana,NC-Wilmgton,Indiana,2002
+1108,1108,Kansas,Stanford,Kansas,2002
+1109,1109,Kent State,Alabama,Kent State,2002
+1110,1110,Kentucky,Tulsa,Kentucky,2002
+1111,1111,Missouri,Ohio State,Missouri,2002
+1112,1112,Oregon,Wake Forest,Oregon,2002
+1113,1113,Connecticut,NC State,Connecticut,2002
+1114,1114,Illinois,Creighton,Illinois,2002
+1115,1115,Maryland,Wisconsin,Maryland,2002
+1116,1116,Oklahoma,Xavier,Oklahoma,2002
+1117,1117,Pittsburgh,California,Pittsburgh,2002
+1118,1118,S Illinois,Georgia,S Illinois,2002
+1119,1119,Texas,Miss State,Texas,2002
+1120,1120,UCLA,Cincinnati,UCLA,2002
+1121,1121,Indiana,Duke,Indiana,2002
+1122,1122,Kent State,Pittsburgh,Kent State,2002
+1123,1123,Missouri,UCLA,Missouri,2002
+1124,1124,Oklahoma,Arizona,Oklahoma,2002
+1125,1125,Connecticut,S Illinois,Connecticut,2002
+1126,1126,Kansas,Illinois,Kansas,2002
+1127,1127,Maryland,Kentucky,Maryland,2002
+1128,1128,Oregon,Texas,Oregon,2002
+1129,1129,Indiana,Kent State,Indiana,2002
+1130,1130,Oklahoma,Missouri,Oklahoma,2002
+1131,1131,Kansas,Oregon,Kansas,2002
+1132,1132,Maryland,Connecticut,Maryland,2002
+1133,1133,Indiana,Oklahoma,Indiana,2002
+1134,1134,Maryland,Kansas,Maryland,2002
+1135,1135,Maryland,Indiana,Maryland,2002
+1136,1136,NC-Asheville,TX Southern,NC-Asheville,2003
+1137,1137,Arizona,Vermont,Arizona,2003
+1138,1138,Arizona St,Memphis,Arizona St,2003
+1139,1139,C Michigan,Creighton,C Michigan,2003
+1140,1140,California,NC State,California,2003
+1141,1141,Connecticut,BYU,Connecticut,2003
+1142,1142,Duke,Colorado St,Duke,2003
+1143,1143,Gonzaga,Cincinnati,Gonzaga,2003
+1144,1144,Illinois,W Kentucky,Illinois,2003
+1145,1145,Kansas,Utah State,Kansas,2003
+1146,1146,Marquette,Holy Cross,Marquette,2003
+1147,1147,Missouri,S Illinois,Missouri,2003
+1148,1148,Notre Dame,WI-Milwkee,Notre Dame,2003
+1149,1149,Oklahoma,S Carolina St,Oklahoma,2003
+1150,1150,Stanford,San Diego,Stanford,2003
+1151,1151,Tulsa,Dayton,Tulsa,2003
+1152,1152,Wisconsin,Weber State,Wisconsin,2003
+1153,1153,Auburn,St Josephs,Auburn,2003
+1154,1154,Butler,Miss State,Butler,2003
+1155,1155,Florida,Sam Houston St,Florida,2003
+1156,1156,Indiana,Alabama,Indiana,2003
+1157,1157,Kentucky,IUPUI,Kentucky,2003
+1158,1158,Louisville,Austin Peay,Louisville,2003
+1159,1159,Maryland,NC-Wilmgton,Maryland,2003
+1160,1160,Michigan St,Colorado,Michigan St,2003
+1161,1161,Oklahoma St,U Penn,Oklahoma St,2003
+1162,1162,Pittsburgh,Wagner,Pittsburgh,2003
+1163,1163,Purdue,LSU,Purdue,2003
+1164,1164,Syracuse,Manhattan,Syracuse,2003
+1165,1165,Texas,NC-Asheville,Texas,2003
+1166,1166,Utah,Oregon,Utah,2003
+1167,1167,Wake Forest,E Tenn St,Wake Forest,2003
+1168,1168,Xavier,Troy,Xavier,2003
+1169,1169,Arizona,Gonzaga,Arizona,2003
+1170,1170,Connecticut,Stanford,Connecticut,2003
+1171,1171,Duke,C Michigan,Duke,2003
+1172,1172,Kansas,Arizona St,Kansas,2003
+1173,1173,Marquette,Missouri,Marquette,2003
+1174,1174,Notre Dame,Illinois,Notre Dame,2003
+1175,1175,Oklahoma,California,Oklahoma,2003
+1176,1176,Wisconsin,Tulsa,Wisconsin,2003
+1177,1177,Auburn,Wake Forest,Auburn,2003
+1178,1178,Butler,Louisville,Butler,2003
+1179,1179,Kentucky,Utah,Kentucky,2003
+1180,1180,Maryland,Xavier,Maryland,2003
+1181,1181,Michigan St,Florida,Michigan St,2003
+1182,1182,Pittsburgh,Indiana,Pittsburgh,2003
+1183,1183,Syracuse,Oklahoma St,Syracuse,2003
+1184,1184,Texas,Purdue,Texas,2003
+1185,1185,Arizona,Notre Dame,Arizona,2003
+1186,1186,Kansas,Duke,Kansas,2003
+1187,1187,Kentucky,Wisconsin,Kentucky,2003
+1188,1188,Marquette,Pittsburgh,Marquette,2003
+1189,1189,Michigan St,Maryland,Michigan St,2003
+1190,1190,Oklahoma,Butler,Oklahoma,2003
+1191,1191,Syracuse,Auburn,Syracuse,2003
+1192,1192,Texas,Connecticut,Texas,2003
+1193,1193,Kansas,Arizona,Kansas,2003
+1194,1194,Marquette,Kentucky,Marquette,2003
+1195,1195,Syracuse,Oklahoma,Syracuse,2003
+1196,1196,Texas,Michigan St,Texas,2003
+1197,1197,Kansas,Marquette,Kansas,2003
+1198,1198,Syracuse,Texas,Syracuse,2003
+1199,1199,Syracuse,Kansas,Syracuse,2003
+1200,1200,Florida A&M,Lehigh,Florida A&M,2004
+1201,1201,Alabama,S Illinois,Alabama,2004
+1202,1202,Connecticut,Vermont,Connecticut,2004
+1203,1203,DePaul,Dayton,DePaul,2004
+1204,1204,Duke,Alabama St,Duke,2004
+1205,1205,Gonzaga,Valparaiso,Gonzaga,2004
+1206,1206,Manhattan,Florida,Manhattan,2004
+1207,1207,Maryland,UTEP,Maryland,2004
+1208,1208,Nevada,Michigan St,Nevada,2004
+1209,1209,N Carolina,Air Force,N Carolina,2004
+1210,1210,Seton Hall,Arizona,Seton Hall,2004
+1211,1211,St Josephs,Liberty,St Josephs,2004
+1212,1212,Stanford,UT San Antonio,Stanford,2004
+1213,1213,Syracuse,BYU,Syracuse,2004
+1214,1214,Texas,Princeton,Texas,2004
+1215,1215,Texas Tech,Charlotte,Texas Tech,2004
+1216,1216,Wake Forest,VCU,Wake Forest,2004
+1217,1217,Boston College,Utah,Boston College,2004
+1218,1218,Cincinnati,E Tenn St,Cincinnati,2004
+1219,1219,GA Tech,N Iowa,GA Tech,2004
+1220,1220,Illinois,Murray St,Illinois,2004
+1221,1221,Kansas,IL Chicago,Kansas,2004
+1222,1222,Kentucky,Florida A&M,Kentucky,2004
+1223,1223,Memphis,S Carolina,Memphis,2004
+1224,1224,Miss State,Monmouth NJ,Miss State,2004
+1225,1225,NC State,LA Lafayette,NC State,2004
+1226,1226,Oklahoma St,E Washingtn,Oklahoma St,2004
+1227,1227,Pacific,Providence,Pacific,2004
+1228,1228,Pittsburgh,Central FL,Pittsburgh,2004
+1229,1229,UAB,Washington,UAB,2004
+1230,1230,Vanderbilt,W Michigan,Vanderbilt,2004
+1231,1231,Wisconsin,Richmond,Wisconsin,2004
+1232,1232,Xavier,Louisville,Xavier,2004
+1233,1233,Alabama,Stanford,Alabama,2004
+1234,1234,Connecticut,DePaul,Connecticut,2004
+1235,1235,Duke,Seton Hall,Duke,2004
+1236,1236,Nevada,Gonzaga,Nevada,2004
+1237,1237,St Josephs,Texas Tech,St Josephs,2004
+1238,1238,Syracuse,Maryland,Syracuse,2004
+1239,1239,Texas,N Carolina,Texas,2004
+1240,1240,Wake Forest,Manhattan,Wake Forest,2004
+1241,1241,GA Tech,Boston College,GA Tech,2004
+1242,1242,Illinois,Cincinnati,Illinois,2004
+1243,1243,Kansas,Pacific,Kansas,2004
+1244,1244,Oklahoma St,Memphis,Oklahoma St,2004
+1245,1245,Pittsburgh,Wisconsin,Pittsburgh,2004
+1246,1246,UAB,Kentucky,UAB,2004
+1247,1247,Vanderbilt,NC State,Vanderbilt,2004
+1248,1248,Xavier,Miss State,Xavier,2004
+1249,1249,Alabama,Syracuse,Alabama,2004
+1250,1250,Connecticut,Vanderbilt,Connecticut,2004
+1251,1251,Oklahoma St,Pittsburgh,Oklahoma St,2004
+1252,1252,St Josephs,Wake Forest,St Josephs,2004
+1253,1253,Duke,Illinois,Duke,2004
+1254,1254,GA Tech,Nevada,GA Tech,2004
+1255,1255,Kansas,UAB,Kansas,2004
+1256,1256,Xavier,Texas,Xavier,2004
+1257,1257,Connecticut,Alabama,Connecticut,2004
+1258,1258,Oklahoma St,St Josephs,Oklahoma St,2004
+1259,1259,Duke,Xavier,Duke,2004
+1260,1260,GA Tech,Kansas,GA Tech,2004
+1261,1261,Connecticut,Duke,Connecticut,2004
+1262,1262,GA Tech,Oklahoma St,GA Tech,2004
+1263,1263,Connecticut,GA Tech,Connecticut,2004
+1264,1264,Oakland,Alabama A&M,Oakland,2005
+1265,1265,Arizona,Utah State,Arizona,2005
+1266,1266,Boston College,U Penn,Boston College,2005
+1267,1267,Cincinnati,Iowa,Cincinnati,2005
+1268,1268,Gonzaga,Winthrop,Gonzaga,2005
+1269,1269,Illinois,F Dickinson,Illinois,2005
+1270,1270,Kentucky,E Kentucky,Kentucky,2005
+1271,1271,Nevada,Texas,Nevada,2005
+1272,1272,Oklahoma,Niagara,Oklahoma,2005
+1273,1273,Pacific,Pittsburgh,Pacific,2005
+1274,1274,Texas Tech,UCLA,Texas Tech,2005
+1275,1275,UAB,LSU,UAB,2005
+1276,1276,Utah,UTEP,Utah,2005
+1277,1277,Wake Forest,Chattanooga,Wake Forest,2005
+1278,1278,Washington,Montana,Washington,2005
+1279,1279,W Virginia,Creighton,W Virginia,2005
+1280,1280,WI-Milwkee,Alabama,WI-Milwkee,2005
+1281,1281,Bucknell,Kansas,Bucknell,2005
+1282,1282,Connecticut,Central FL,Connecticut,2005
+1283,1283,Duke,Delaware St,Duke,2005
+1284,1284,Florida,Ohio,Florida,2005
+1285,1285,GA Tech,Geo Wshgtn,GA Tech,2005
+1286,1286,Iowa State,Minnesota,Iowa State,2005
+1287,1287,Louisville,LA Lafayette,Louisville,2005
+1288,1288,Michigan St,Old Dominion,Michigan St,2005
+1289,1289,Miss State,Stanford,Miss State,2005
+1290,1290,NC State,Charlotte,NC State,2005
+1291,1291,N Carolina,Oakland,N Carolina,2005
+1292,1292,Oklahoma St,SE Louisiana,Oklahoma St,2005
+1293,1293,S Illinois,St Marys,S Illinois,2005
+1294,1294,Vermont,Syracuse,Vermont,2005
+1295,1295,Villanova,New Mexico,Villanova,2005
+1296,1296,Wisconsin,N Iowa,Wisconsin,2005
+1297,1297,Arizona,UAB,Arizona,2005
+1298,1298,Illinois,Nevada,Illinois,2005
+1299,1299,Kentucky,Cincinnati,Kentucky,2005
+1300,1300,Texas Tech,Gonzaga,Texas Tech,2005
+1301,1301,Utah,Oklahoma,Utah,2005
+1302,1302,Washington,Pacific,Washington,2005
+1303,1303,W Virginia,Wake Forest,W Virginia,2005
+1304,1304,WI-Milwkee,Boston College,WI-Milwkee,2005
+1305,1305,Duke,Miss State,Duke,2005
+1306,1306,Louisville,GA Tech,Louisville,2005
+1307,1307,Michigan St,Vermont,Michigan St,2005
+1308,1308,NC State,Connecticut,NC State,2005
+1309,1309,N Carolina,Iowa State,N Carolina,2005
+1310,1310,Oklahoma St,S Illinois,Oklahoma St,2005
+1311,1311,Villanova,Florida,Villanova,2005
+1312,1312,Wisconsin,Bucknell,Wisconsin,2005
+1313,1313,Arizona,Oklahoma St,Arizona,2005
+1314,1314,Illinois,WI-Milwkee,Illinois,2005
+1315,1315,Louisville,Washington,Louisville,2005
+1316,1316,W Virginia,Texas Tech,W Virginia,2005
+1317,1317,Kentucky,Utah,Kentucky,2005
+1318,1318,Michigan St,Duke,Michigan St,2005
+1319,1319,N Carolina,Villanova,N Carolina,2005
+1320,1320,Wisconsin,NC State,Wisconsin,2005
+1321,1321,Illinois,Arizona,Illinois,2005
+1322,1322,Louisville,W Virginia,Louisville,2005
+1323,1323,Michigan St,Kentucky,Michigan St,2005
+1324,1324,N Carolina,Wisconsin,N Carolina,2005
+1325,1325,Illinois,Louisville,Illinois,2005
+1326,1326,N Carolina,Michigan St,N Carolina,2005
+1327,1327,N Carolina,Illinois,N Carolina,2005
+1328,1328,Monmouth NJ,Hampton,Monmouth NJ,2006
+1329,1329,Alabama,Marquette,Alabama,2006
+1330,1330,Boston College,Pacific,Boston College,2006
+1331,1331,Duke,Southern,Duke,2006
+1332,1332,Florida,South Alabama,Florida,2006
+1333,1333,Geo Wshgtn,NC-Wilmgton,Geo Wshgtn,2006
+1334,1334,Gonzaga,Xavier,Gonzaga,2006
+1335,1335,Illinois,Air Force,Illinois,2006
+1336,1336,Indiana,San Diego St,Indiana,2006
+1337,1337,LSU,Iona,LSU,2006
+1338,1338,Montana,Nevada,Montana,2006
+1339,1339,Tennessee,Winthrop,Tennessee,2006
+1340,1340,Texas A&M,Syracuse,Texas A&M,2006
+1341,1341,UCLA,Belmont,UCLA,2006
+1342,1342,Washington,Utah State,Washington,2006
+1343,1343,WI-Milwkee,Oklahoma,WI-Milwkee,2006
+1344,1344,Wichita St,Seton Hall,Wichita St,2006
+1345,1345,Arizona,Wisconsin,Arizona,2006
+1346,1346,Bradley,Kansas,Bradley,2006
+1347,1347,Bucknell,Arkansas,Bucknell,2006
+1348,1348,Connecticut,Albany,Connecticut,2006
+1349,1349,George Mason,Michigan St,George Mason,2006
+1350,1350,Georgetown,N Iowa,Georgetown,2006
+1351,1351,Kentucky,UAB,Kentucky,2006
+1352,1352,Memphis,Oral Roberts,Memphis,2006
+1353,1353,NC State,California,NC State,2006
+1354,1354,N Carolina,Murray St,N Carolina,2006
+1355,1355,NW State,Iowa,NW State,2006
+1356,1356,Ohio State,Davidson,Ohio State,2006
+1357,1357,Pittsburgh,Kent State,Pittsburgh,2006
+1358,1358,Texas,U Penn,Texas,2006
+1359,1359,Villanova,Monmouth NJ,Villanova,2006
+1360,1360,W Virginia,S Illinois,W Virginia,2006
+1361,1361,Boston College,Montana,Boston College,2006
+1362,1362,Duke,Geo Wshgtn,Duke,2006
+1363,1363,Florida,WI-Milwkee,Florida,2006
+1364,1364,Gonzaga,Indiana,Gonzaga,2006
+1365,1365,LSU,Texas A&M,LSU,2006
+1366,1366,UCLA,Alabama,UCLA,2006
+1367,1367,Washington,Illinois,Washington,2006
+1368,1368,Wichita St,Tennessee,Wichita St,2006
+1369,1369,Bradley,Pittsburgh,Bradley,2006
+1370,1370,Connecticut,Kentucky,Connecticut,2006
+1371,1371,George Mason,N Carolina,George Mason,2006
+1372,1372,Georgetown,Ohio State,Georgetown,2006
+1373,1373,Memphis,Bucknell,Memphis,2006
+1374,1374,Texas,NC State,Texas,2006
+1375,1375,Villanova,Arizona,Villanova,2006
+1376,1376,W Virginia,NW State,W Virginia,2006
+1377,1377,LSU,Duke,LSU,2006
+1378,1378,Memphis,Bradley,Memphis,2006
+1379,1379,Texas,W Virginia,Texas,2006
+1380,1380,UCLA,Gonzaga,UCLA,2006
+1381,1381,Connecticut,Washington,Connecticut,2006
+1382,1382,Florida,Georgetown,Florida,2006
+1383,1383,George Mason,Wichita St,George Mason,2006
+1384,1384,Villanova,Boston College,Villanova,2006
+1385,1385,LSU,Texas,LSU,2006
+1386,1386,UCLA,Memphis,UCLA,2006
+1387,1387,Florida,Villanova,Florida,2006
+1388,1388,George Mason,Connecticut,George Mason,2006
+1389,1389,Florida,George Mason,Florida,2006
+1390,1390,UCLA,LSU,UCLA,2006
+1391,1391,Florida,UCLA,Florida,2006
+1392,1392,Niagara,Florida A&M,Niagara,2007
+1393,1393,Boston College,Texas Tech,Boston College,2007
+1394,1394,Butler,Old Dominion,Butler,2007
+1395,1395,Georgetown,Belmont,Georgetown,2007
+1396,1396,Indiana,Gonzaga,Indiana,2007
+1397,1397,Louisville,Stanford,Louisville,2007
+1398,1398,Maryland,Davidson,Maryland,2007
+1399,1399,Michigan St,Marquette,Michigan St,2007
+1400,1400,N Carolina,E Kentucky,N Carolina,2007
+1401,1401,Ohio State,Central Conn,Ohio State,2007
+1402,1402,Pittsburgh,Wright State,Pittsburgh,2007
+1403,1403,Texas A&M,U Penn,Texas A&M,2007
+1404,1404,UCLA,Weber State,UCLA,2007
+1405,1405,VCU,Duke,VCU,2007
+1406,1406,Vanderbilt,Geo Wshgtn,Vanderbilt,2007
+1407,1407,Washington St,Oral Roberts,Washington St,2007
+1408,1408,Xavier,BYU,Xavier,2007
+1409,1409,Florida,Jackson St,Florida,2007
+1410,1410,Kansas,Niagara,Kansas,2007
+1411,1411,Kentucky,Villanova,Kentucky,2007
+1412,1412,Memphis,North Texas,Memphis,2007
+1413,1413,Nevada,Creighton,Nevada,2007
+1414,1414,Oregon,Miami OH,Oregon,2007
+1415,1415,Purdue,Arizona,Purdue,2007
+1416,1416,S Illinois,Holy Cross,S Illinois,2007
+1417,1417,Tennessee,Lg Beach St,Tennessee,2007
+1418,1418,Texas,N Mex State,Texas,2007
+1419,1419,UNLV,GA Tech,UNLV,2007
+1420,1420,USC,Arkansas,USC,2007
+1421,1421,Virginia,Albany,Virginia,2007
+1422,1422,VA Tech,Illinois,VA Tech,2007
+1423,1423,Winthrop,Notre Dame,Winthrop,2007
+1424,1424,Wisconsin,TAM C. Christi,Wisconsin,2007
+1425,1425,Butler,Maryland,Butler,2007
+1426,1426,Georgetown,Boston College,Georgetown,2007
+1427,1427,N Carolina,Michigan St,N Carolina,2007
+1428,1428,Ohio State,Xavier,Ohio State,2007
+1429,1429,Pittsburgh,VCU,Pittsburgh,2007
+1430,1430,Texas A&M,Louisville,Texas A&M,2007
+1431,1431,UCLA,Indiana,UCLA,2007
+1432,1432,Vanderbilt,Washington St,Vanderbilt,2007
+1433,1433,Florida,Purdue,Florida,2007
+1434,1434,Kansas,Kentucky,Kansas,2007
+1435,1435,Memphis,Nevada,Memphis,2007
+1436,1436,Oregon,Winthrop,Oregon,2007
+1437,1437,S Illinois,VA Tech,S Illinois,2007
+1438,1438,Tennessee,Virginia,Tennessee,2007
+1439,1439,UNLV,Wisconsin,UNLV,2007
+1440,1440,USC,Texas,USC,2007
+1441,1441,Kansas,S Illinois,Kansas,2007
+1442,1442,Memphis,Texas A&M,Memphis,2007
+1443,1443,Ohio State,Tennessee,Ohio State,2007
+1444,1444,UCLA,Pittsburgh,UCLA,2007
+1445,1445,Florida,Butler,Florida,2007
+1446,1446,Georgetown,Vanderbilt,Georgetown,2007
+1447,1447,N Carolina,USC,N Carolina,2007
+1448,1448,Oregon,UNLV,Oregon,2007
+1449,1449,Ohio State,Memphis,Ohio State,2007
+1450,1450,UCLA,Kansas,UCLA,2007
+1451,1451,Florida,Oregon,Florida,2007
+1452,1452,Georgetown,N Carolina,Georgetown,2007
+1453,1453,Florida,UCLA,Florida,2007
+1454,1454,Ohio State,Georgetown,Ohio State,2007
+1455,1455,Florida,Ohio State,Florida,2007
+1456,1456,Mt St Marys,Coppin St,Mt St Marys,2008
+1457,1457,Duke,Belmont,Duke,2008
+1458,1458,Kansas,Portland St,Kansas,2008
+1459,1459,Kansas St,USC,Kansas St,2008
+1460,1460,Marquette,Kentucky,Marquette,2008
+1461,1461,Michigan St,Temple,Michigan St,2008
+1462,1462,Notre Dame,George Mason,Notre Dame,2008
+1463,1463,Pittsburgh,Oral Roberts,Pittsburgh,2008
+1464,1464,Purdue,Baylor,Purdue,2008
+1465,1465,Stanford,Cornell,Stanford,2008
+1466,1466,Texas A&M,BYU,Texas A&M,2008
+1467,1467,UCLA,Miss Val St,UCLA,2008
+1468,1468,UNLV,Kent State,UNLV,2008
+1469,1469,Washington St,Winthrop,Washington St,2008
+1470,1470,W Virginia,Arizona,W Virginia,2008
+1471,1471,Wisconsin,CS Fullerton,Wisconsin,2008
+1472,1472,Xavier,Georgia,Xavier,2008
+1473,1473,Arkansas,Indiana,Arkansas,2008
+1474,1474,Butler,South Alabama,Butler,2008
+1475,1475,Davidson,Gonzaga,Davidson,2008
+1476,1476,Georgetown,Maryland BC,Georgetown,2008
+1477,1477,Louisville,Boise State,Louisville,2008
+1478,1478,Memphis,UT Arlington,Memphis,2008
+1479,1479,Miami (FL),St Marys,Miami (FL),2008
+1480,1480,Miss State,Oregon,Miss State,2008
+1481,1481,N Carolina,Mt St Marys,N Carolina,2008
+1482,1482,Oklahoma,St Josephs,Oklahoma,2008
+1483,1483,San Diego,Connecticut,San Diego,2008
+1484,1484,Siena,Vanderbilt,Siena,2008
+1485,1485,Tennessee,American,Tennessee,2008
+1486,1486,Texas,Austin Peay,Texas,2008
+1487,1487,Villanova,Clemson,Villanova,2008
+1488,1488,W Kentucky,Drake,W Kentucky,2008
+1489,1489,Kansas,UNLV,Kansas,2008
+1490,1490,Michigan St,Pittsburgh,Michigan St,2008
+1491,1491,Stanford,Marquette,Stanford,2008
+1492,1492,UCLA,Texas A&M,UCLA,2008
+1493,1493,Washington St,Notre Dame,Washington St,2008
+1494,1494,W Virginia,Duke,W Virginia,2008
+1495,1495,Wisconsin,Kansas St,Wisconsin,2008
+1496,1496,Xavier,Purdue,Xavier,2008
+1497,1497,Davidson,Georgetown,Davidson,2008
+1498,1498,Louisville,Oklahoma,Louisville,2008
+1499,1499,Memphis,Miss State,Memphis,2008
+1500,1500,N Carolina,Arkansas,N Carolina,2008
+1501,1501,Tennessee,Butler,Tennessee,2008
+1502,1502,Texas,Miami (FL),Texas,2008
+1503,1503,Villanova,Siena,Villanova,2008
+1504,1504,W Kentucky,San Diego,W Kentucky,2008
+1505,1505,Louisville,Tennessee,Louisville,2008
+1506,1506,N Carolina,Washington St,N Carolina,2008
+1507,1507,UCLA,W Kentucky,UCLA,2008
+1508,1508,Xavier,W Virginia,Xavier,2008
+1509,1509,Davidson,Wisconsin,Davidson,2008
+1510,1510,Kansas,Villanova,Kansas,2008
+1511,1511,Memphis,Michigan St,Memphis,2008
+1512,1512,Texas,Stanford,Texas,2008
+1513,1513,N Carolina,Louisville,N Carolina,2008
+1514,1514,UCLA,Xavier,UCLA,2008
+1515,1515,Kansas,Davidson,Kansas,2008
+1516,1516,Memphis,Texas,Memphis,2008
+1517,1517,Kansas,N Carolina,Kansas,2008
+1518,1518,Memphis,UCLA,Memphis,2008
+1519,1519,Kansas,Memphis,Kansas,2008
+1520,1520,Morehead St,Alabama St,Morehead St,2009
+1521,1521,Connecticut,Chattanooga,Connecticut,2009
+1522,1522,Duke,Binghamton,Duke,2009
+1523,1523,Gonzaga,Akron,Gonzaga,2009
+1524,1524,LSU,Butler,LSU,2009
+1525,1525,Maryland,California,Maryland,2009
+1526,1526,Memphis,CS Northridge,Memphis,2009
+1527,1527,Michigan,Clemson,Michigan,2009
+1528,1528,N Carolina,Radford,N Carolina,2009
+1529,1529,Oklahoma,Morgan St,Oklahoma,2009
+1530,1530,Purdue,N Iowa,Purdue,2009
+1531,1531,Texas,Minnesota,Texas,2009
+1532,1532,Texas A&M,BYU,Texas A&M,2009
+1533,1533,UCLA,VCU,UCLA,2009
+1534,1534,Villanova,American,Villanova,2009
+1535,1535,W Kentucky,Illinois,W Kentucky,2009
+1536,1536,Washington,Miss State,Washington,2009
+1537,1537,Arizona,Utah,Arizona,2009
+1538,1538,Arizona St,Temple,Arizona St,2009
+1539,1539,Cleveland St,Wake Forest,Cleveland St,2009
+1540,1540,Dayton,W Virginia,Dayton,2009
+1541,1541,Kansas,N Dakota St,Kansas,2009
+1542,1542,Louisville,Morehead St,Louisville,2009
+1543,1543,Marquette,Utah State,Marquette,2009
+1544,1544,Michigan St,Rob Morris,Michigan St,2009
+1545,1545,Missouri,Cornell,Missouri,2009
+1546,1546,Oklahoma St,Tennessee,Oklahoma St,2009
+1547,1547,Pittsburgh,E Tenn St,Pittsburgh,2009
+1548,1548,Siena,Ohio State,Siena,2009
+1549,1549,Syracuse,Ste F Austin,Syracuse,2009
+1550,1550,USC,Boston College,USC,2009
+1551,1551,Wisconsin,Florida St,Wisconsin,2009
+1552,1552,Xavier,Portland St,Xavier,2009
+1553,1553,Connecticut,Texas A&M,Connecticut,2009
+1554,1554,Duke,Texas,Duke,2009
+1555,1555,Gonzaga,W Kentucky,Gonzaga,2009
+1556,1556,Memphis,Maryland,Memphis,2009
+1557,1557,N Carolina,LSU,N Carolina,2009
+1558,1558,Oklahoma,Michigan,Oklahoma,2009
+1559,1559,Purdue,Washington,Purdue,2009
+1560,1560,Villanova,UCLA,Villanova,2009
+1561,1561,Arizona,Cleveland St,Arizona,2009
+1562,1562,Kansas,Dayton,Kansas,2009
+1563,1563,Louisville,Siena,Louisville,2009
+1564,1564,Michigan St,USC,Michigan St,2009
+1565,1565,Missouri,Marquette,Missouri,2009
+1566,1566,Pittsburgh,Oklahoma St,Pittsburgh,2009
+1567,1567,Syracuse,Arizona St,Syracuse,2009
+1568,1568,Xavier,Wisconsin,Xavier,2009
+1569,1569,Connecticut,Purdue,Connecticut,2009
+1570,1570,Missouri,Memphis,Missouri,2009
+1571,1571,Pittsburgh,Xavier,Pittsburgh,2009
+1572,1572,Villanova,Duke,Villanova,2009
+1573,1573,Louisville,Arizona,Louisville,2009
+1574,1574,Michigan St,Kansas,Michigan St,2009
+1575,1575,N Carolina,Gonzaga,N Carolina,2009
+1576,1576,Oklahoma,Syracuse,Oklahoma,2009
+1577,1577,Connecticut,Missouri,Connecticut,2009
+1578,1578,Villanova,Pittsburgh,Villanova,2009
+1579,1579,Michigan St,Louisville,Michigan St,2009
+1580,1580,N Carolina,Oklahoma,N Carolina,2009
+1581,1581,Michigan St,Connecticut,Michigan St,2009
+1582,1582,N Carolina,Villanova,N Carolina,2009
+1583,1583,N Carolina,Michigan St,N Carolina,2009
+1584,1584,Ark Pine Bluff,Winthrop,Ark Pine Bluff,2010
+1585,1585,Baylor,Sam Houston St,Baylor,2010
+1586,1586,Butler,UTEP,Butler,2010
+1587,1587,BYU,Florida,BYU,2010
+1588,1588,Kansas,Lehigh,Kansas,2010
+1589,1589,Kansas St,North Texas,Kansas St,2010
+1590,1590,Kentucky,E Tenn St,Kentucky,2010
+1591,1591,Murray St,Vanderbilt,Murray St,2010
+1592,1592,New Mexico,Montana,New Mexico,2010
+1593,1593,N Iowa,UNLV,N Iowa,2010
+1594,1594,Ohio,Georgetown,Ohio,2010
+1595,1595,Old Dominion,Notre Dame,Old Dominion,2010
+1596,1596,St Marys,Richmond,St Marys,2010
+1597,1597,Tennessee,San Diego St,Tennessee,2010
+1598,1598,Villanova,Rob Morris,Villanova,2010
+1599,1599,Wake Forest,Texas,Wake Forest,2010
+1600,1600,Washington,Marquette,Washington,2010
+1601,1601,California,Louisville,California,2010
+1602,1602,Cornell,Temple,Cornell,2010
+1603,1603,Duke,Ark Pine Bluff,Duke,2010
+1604,1604,GA Tech,Oklahoma St,GA Tech,2010
+1605,1605,Gonzaga,Florida St,Gonzaga,2010
+1606,1606,Maryland,Houston,Maryland,2010
+1607,1607,Michigan St,N Mex State,Michigan St,2010
+1608,1608,Missouri,Clemson,Missouri,2010
+1609,1609,Ohio State,UCSB,Ohio State,2010
+1610,1610,Pittsburgh,Oakland,Pittsburgh,2010
+1611,1611,Purdue,Siena,Purdue,2010
+1612,1612,Syracuse,Vermont,Syracuse,2010
+1613,1613,Texas A&M,Utah State,Texas A&M,2010
+1614,1614,W Virginia,Morgan St,W Virginia,2010
+1615,1615,Wisconsin,Wofford,Wisconsin,2010
+1616,1616,Xavier,Minnesota,Xavier,2010
+1617,1617,Baylor,Old Dominion,Baylor,2010
+1618,1618,Butler,Murray St,Butler,2010
+1619,1619,Kansas St,BYU,Kansas St,2010
+1620,1620,Kentucky,Wake Forest,Kentucky,2010
+1621,1621,N Iowa,Kansas,N Iowa,2010
+1622,1622,St Marys,Villanova,St Marys,2010
+1623,1623,Tennessee,Ohio,Tennessee,2010
+1624,1624,Washington,New Mexico,Washington,2010
+1625,1625,Cornell,Wisconsin,Cornell,2010
+1626,1626,Duke,California,Duke,2010
+1627,1627,Michigan St,Maryland,Michigan St,2010
+1628,1628,Ohio State,GA Tech,Ohio State,2010
+1629,1629,Purdue,Texas A&M,Purdue,2010
+1630,1630,Syracuse,Gonzaga,Syracuse,2010
+1631,1631,W Virginia,Missouri,W Virginia,2010
+1632,1632,Xavier,Pittsburgh,Xavier,2010
+1633,1633,Butler,Syracuse,Butler,2010
+1634,1634,Kansas St,Xavier,Kansas St,2010
+1635,1635,Kentucky,Cornell,Kentucky,2010
+1636,1636,W Virginia,Washington,W Virginia,2010
+1637,1637,Baylor,St Marys,Baylor,2010
+1638,1638,Duke,Purdue,Duke,2010
+1639,1639,Michigan St,N Iowa,Michigan St,2010
+1640,1640,Tennessee,Ohio State,Tennessee,2010
+1641,1641,Butler,Kansas St,Butler,2010
+1642,1642,W Virginia,Kentucky,W Virginia,2010
+1643,1643,Duke,Baylor,Duke,2010
+1644,1644,Michigan St,Tennessee,Michigan St,2010
+1645,1645,Butler,Michigan St,Butler,2010
+1646,1646,Duke,W Virginia,Duke,2010
+1647,1647,Duke,Butler,Duke,2010
+1648,1648,Clemson,UAB,Clemson,2011
+1649,1649,NC-Asheville,AR Lit Rock,NC-Asheville,2011
+1650,1650,UT San Antonio,Alabama St,UT San Antonio,2011
+1651,1651,VCU,USC,VCU,2011
+1652,1652,Butler,Old Dominion,Butler,2011
+1653,1653,BYU,Wofford,BYU,2011
+1654,1654,Cincinnati,Missouri,Cincinnati,2011
+1655,1655,Connecticut,Bucknell,Connecticut,2011
+1656,1656,Florida,UCSB,Florida,2011
+1657,1657,Gonzaga,St Johns,Gonzaga,2011
+1658,1658,Kansas St,Utah State,Kansas St,2011
+1659,1659,Kentucky,Princeton,Kentucky,2011
+1660,1660,Morehead St,Louisville,Morehead St,2011
+1661,1661,Pittsburgh,NC-Asheville,Pittsburgh,2011
+1662,1662,Richmond,Vanderbilt,Richmond,2011
+1663,1663,San Diego St,N Colorado,San Diego St,2011
+1664,1664,Temple,Penn St,Temple,2011
+1665,1665,UCLA,Michigan St,UCLA,2011
+1666,1666,W Virginia,Clemson,W Virginia,2011
+1667,1667,Wisconsin,Belmont,Wisconsin,2011
+1668,1668,Arizona,Memphis,Arizona,2011
+1669,1669,Duke,Hampton,Duke,2011
+1670,1670,Florida St,Texas A&M,Florida St,2011
+1671,1671,George Mason,Villanova,George Mason,2011
+1672,1672,Illinois,UNLV,Illinois,2011
+1673,1673,Kansas,Boston Univ,Kansas,2011
+1674,1674,Marquette,Xavier,Marquette,2011
+1675,1675,Michigan,Tennessee,Michigan,2011
+1676,1676,N Carolina,LIU-Brooklyn,N Carolina,2011
+1677,1677,Notre Dame,Akron,Notre Dame,2011
+1678,1678,Ohio State,UT San Antonio,Ohio State,2011
+1679,1679,Purdue,St Peter's,Purdue,2011
+1680,1680,Syracuse,Indiana St,Syracuse,2011
+1681,1681,Texas,Oakland,Texas,2011
+1682,1682,VCU,Georgetown,VCU,2011
+1683,1683,Washington,Georgia,Washington,2011
+1684,1684,Butler,Pittsburgh,Butler,2011
+1685,1685,BYU,Gonzaga,BYU,2011
+1686,1686,Connecticut,Cincinnati,Connecticut,2011
+1687,1687,Florida,UCLA,Florida,2011
+1688,1688,Kentucky,W Virginia,Kentucky,2011
+1689,1689,Richmond,Morehead St,Richmond,2011
+1690,1690,San Diego St,Temple,San Diego St,2011
+1691,1691,Wisconsin,Kansas St,Wisconsin,2011
+1692,1692,Arizona,Texas,Arizona,2011
+1693,1693,Duke,Michigan,Duke,2011
+1694,1694,Florida St,Notre Dame,Florida St,2011
+1695,1695,Kansas,Illinois,Kansas,2011
+1696,1696,Marquette,Syracuse,Marquette,2011
+1697,1697,N Carolina,Washington,N Carolina,2011
+1698,1698,Ohio State,George Mason,Ohio State,2011
+1699,1699,VCU,Purdue,VCU,2011
+1700,1700,Arizona,Duke,Arizona,2011
+1701,1701,Butler,Wisconsin,Butler,2011
+1702,1702,Connecticut,San Diego St,Connecticut,2011
+1703,1703,Florida,BYU,Florida,2011
+1704,1704,Kansas,Richmond,Kansas,2011
+1705,1705,Kentucky,Ohio State,Kentucky,2011
+1706,1706,N Carolina,Marquette,N Carolina,2011
+1707,1707,VCU,Florida St,VCU,2011
+1708,1708,Butler,Florida,Butler,2011
+1709,1709,Connecticut,Arizona,Connecticut,2011
+1710,1710,Kentucky,N Carolina,Kentucky,2011
+1711,1711,VCU,Kansas,VCU,2011
+1712,1712,Butler,VCU,Butler,2011
+1713,1713,Connecticut,Kentucky,Connecticut,2011
+1714,1714,Connecticut,Butler,Connecticut,2011
+1715,1715,BYU,Iona,BYU,2012
+1716,1716,W Kentucky,Miss Val St,W Kentucky,2012
+1717,1717,S Florida,California,S Florida,2012
+1718,1718,Vermont,Lamar,Vermont,2012
+1719,1719,Baylor,S Dakota St,Baylor,2012
+1720,1720,Colorado,UNLV,Colorado,2012
+1721,1721,Gonzaga,W Virginia,Gonzaga,2012
+1722,1722,Indiana,N Mex State,Indiana,2012
+1723,1723,Iowa State,Connecticut,Iowa State,2012
+1724,1724,Kansas St,S Mississippi,Kansas St,2012
+1725,1725,Kentucky,W Kentucky,Kentucky,2012
+1726,1726,Louisville,Davidson,Louisville,2012
+1727,1727,Marquette,BYU,Marquette,2012
+1728,1728,Murray St,Colorado St,Murray St,2012
+1729,1729,New Mexico,Lg Beach St,New Mexico,2012
+1730,1730,Ohio State,Loyola-MD,Ohio State,2012
+1731,1731,Syracuse,NC-Asheville,Syracuse,2012
+1732,1732,VCU,Wichita St,VCU,2012
+1733,1733,Vanderbilt,Harvard,Vanderbilt,2012
+1734,1734,Wisconsin,Montana,Wisconsin,2012
+1735,1735,Cincinnati,Texas,Cincinnati,2012
+1736,1736,Creighton,Alabama,Creighton,2012
+1737,1737,Florida,Virginia,Florida,2012
+1738,1738,Florida St,St Bonavent,Florida St,2012
+1739,1739,Georgetown,Belmont,Georgetown,2012
+1740,1740,Kansas,Detroit,Kansas,2012
+1741,1741,Lehigh,Duke,Lehigh,2012
+1742,1742,Michigan St,LIU-Brooklyn,Michigan St,2012
+1743,1743,NC State,San Diego St,NC State,2012
+1744,1744,Norfolk St,Missouri,Norfolk St,2012
+1745,1745,N Carolina,Vermont,N Carolina,2012
+1746,1746,Ohio,Michigan,Ohio,2012
+1747,1747,Purdue,St Marys,Purdue,2012
+1748,1748,S Florida,Temple,S Florida,2012
+1749,1749,Saint Louis,Memphis,Saint Louis,2012
+1750,1750,Xavier,Notre Dame,Xavier,2012
+1751,1751,Baylor,Colorado,Baylor,2012
+1752,1752,Indiana,VCU,Indiana,2012
+1753,1753,Kentucky,Iowa State,Kentucky,2012
+1754,1754,Louisville,New Mexico,Louisville,2012
+1755,1755,Marquette,Murray St,Marquette,2012
+1756,1756,Ohio State,Gonzaga,Ohio State,2012
+1757,1757,Syracuse,Kansas St,Syracuse,2012
+1758,1758,Wisconsin,Vanderbilt,Wisconsin,2012
+1759,1759,Cincinnati,Florida St,Cincinnati,2012
+1760,1760,Florida,Norfolk St,Florida,2012
+1761,1761,Kansas,Purdue,Kansas,2012
+1762,1762,Michigan St,Saint Louis,Michigan St,2012
+1763,1763,NC State,Georgetown,NC State,2012
+1764,1764,N Carolina,Creighton,N Carolina,2012
+1765,1765,Ohio,S Florida,Ohio,2012
+1766,1766,Xavier,Lehigh,Xavier,2012
+1767,1767,Florida,Marquette,Florida,2012
+1768,1768,Louisville,Michigan St,Louisville,2012
+1769,1769,Ohio State,Cincinnati,Ohio State,2012
+1770,1770,Syracuse,Wisconsin,Syracuse,2012
+1771,1771,Baylor,Xavier,Baylor,2012
+1772,1772,Kansas,NC State,Kansas,2012
+1773,1773,Kentucky,Indiana,Kentucky,2012
+1774,1774,N Carolina,Ohio,N Carolina,2012
+1775,1775,Louisville,Florida,Louisville,2012
+1776,1776,Ohio State,Syracuse,Ohio State,2012
+1777,1777,Kansas,N Carolina,Kansas,2012
+1778,1778,Kentucky,Baylor,Kentucky,2012
+1779,1779,Kansas,Ohio State,Kansas,2012
+1780,1780,Kentucky,Louisville,Kentucky,2012
+1781,1781,Kentucky,Kansas,Kentucky,2012
+1782,1782,NC A&T,Liberty,NC A&T,2013
+1783,1783,St Marys,Middle Tenn,St Marys,2013
+1784,1784,James Mad,LIU-Brooklyn,James Mad,2013
+1785,1785,La Salle,Boise State,La Salle,2013
+1786,1786,Arizona,Belmont,Arizona,2013
+1787,1787,Butler,Bucknell,Butler,2013
+1788,1788,California,UNLV,California,2013
+1789,1789,Colorado St,Missouri,Colorado St,2013
+1790,1790,Gonzaga,Southern,Gonzaga,2013
+1791,1791,Harvard,New Mexico,Harvard,2013
+1792,1792,Louisville,NC A&T,Louisville,2013
+1793,1793,Marquette,Davidson,Marquette,2013
+1794,1794,Memphis,St Marys,Memphis,2013
+1795,1795,Michigan,S Dakota St,Michigan,2013
+1796,1796,Michigan St,Valparaiso,Michigan St,2013
+1797,1797,Oregon,Oklahoma St,Oregon,2013
+1798,1798,Saint Louis,N Mex State,Saint Louis,2013
+1799,1799,Syracuse,Montana,Syracuse,2013
+1800,1800,VCU,Akron,VCU,2013
+1801,1801,Wichita St,Pittsburgh,Wichita St,2013
+1802,1802,Creighton,Cincinnati,Creighton,2013
+1803,1803,Duke,Albany,Duke,2013
+1804,1804,Fla Gulf Cst,Georgetown,Fla Gulf Cst,2013
+1805,1805,Florida,NW State,Florida,2013
+1806,1806,Illinois,Colorado,Illinois,2013
+1807,1807,Indiana,James Mad,Indiana,2013
+1808,1808,Iowa State,Notre Dame,Iowa State,2013
+1809,1809,Kansas,W Kentucky,Kansas,2013
+1810,1810,La Salle,Kansas St,La Salle,2013
+1811,1811,Miami (FL),Pacific,Miami (FL),2013
+1812,1812,Minnesota,UCLA,Minnesota,2013
+1813,1813,Mississippi,Wisconsin,Mississippi,2013
+1814,1814,N Carolina,Villanova,N Carolina,2013
+1815,1815,Ohio State,Iona,Ohio State,2013
+1816,1816,San Diego St,Oklahoma,San Diego St,2013
+1817,1817,Temple,NC State,Temple,2013
+1818,1818,Arizona,Harvard,Arizona,2013
+1819,1819,Louisville,Colorado St,Louisville,2013
+1820,1820,Marquette,Butler,Marquette,2013
+1821,1821,Michigan,VCU,Michigan,2013
+1822,1822,Michigan St,Memphis,Michigan St,2013
+1823,1823,Oregon,Saint Louis,Oregon,2013
+1824,1824,Syracuse,California,Syracuse,2013
+1825,1825,Wichita St,Gonzaga,Wichita St,2013
+1826,1826,Duke,Creighton,Duke,2013
+1827,1827,Fla Gulf Cst,San Diego St,Fla Gulf Cst,2013
+1828,1828,Florida,Minnesota,Florida,2013
+1829,1829,Indiana,Temple,Indiana,2013
+1830,1830,Kansas,N Carolina,Kansas,2013
+1831,1831,La Salle,Mississippi,La Salle,2013
+1832,1832,Miami (FL),Illinois,Miami (FL),2013
+1833,1833,Ohio State,Iowa State,Ohio State,2013
+1834,1834,Marquette,Miami (FL),Marquette,2013
+1835,1835,Ohio State,Arizona,Ohio State,2013
+1836,1836,Syracuse,Indiana,Syracuse,2013
+1837,1837,Wichita St,La Salle,Wichita St,2013
+1838,1838,Duke,Michigan St,Duke,2013
+1839,1839,Florida,Fla Gulf Cst,Florida,2013
+1840,1840,Louisville,Oregon,Louisville,2013
+1841,1841,Michigan,Kansas,Michigan,2013
+1842,1842,Syracuse,Marquette,Syracuse,2013
+1843,1843,Wichita St,Ohio State,Wichita St,2013
+1844,1844,Louisville,Duke,Louisville,2013
+1845,1845,Michigan,Florida,Michigan,2013
+1846,1846,Louisville,Wichita St,Louisville,2013
+1847,1847,Michigan,Syracuse,Michigan,2013
+1848,1848,Louisville,Michigan,Louisville,2013
+1849,1849,Albany,Mt St Marys,Albany,2014
+1850,1850,NC State,Xavier,NC State,2014
+1851,1851,Cal Poly,TX Southern,Cal Poly,2014
+1852,1852,Tennessee,Iowa,Tennessee,2014
+1853,1853,Connecticut,St Josephs,Connecticut,2014
+1854,1854,Dayton,Ohio State,Dayton,2014
+1855,1855,Florida,Albany,Florida,2014
+1856,1856,Harvard,Cincinnati,Harvard,2014
+1857,1857,Louisville,Manhattan,Louisville,2014
+1858,1858,Michigan,Wofford,Michigan,2014
+1859,1859,Michigan St,Delaware,Michigan St,2014
+1860,1860,N Dakota St,Oklahoma,N Dakota St,2014
+1861,1861,Oregon,BYU,Oregon,2014
+1862,1862,Pittsburgh,Colorado,Pittsburgh,2014
+1863,1863,San Diego St,N Mex State,San Diego St,2014
+1864,1864,Saint Louis,NC State,Saint Louis,2014
+1865,1865,Syracuse,W Michigan,Syracuse,2014
+1866,1866,Texas,Arizona St,Texas,2014
+1867,1867,Villanova,WI-Milwkee,Villanova,2014
+1868,1868,Wisconsin,American,Wisconsin,2014
+1869,1869,Arizona,Weber State,Arizona,2014
+1870,1870,Baylor,Nebraska,Baylor,2014
+1871,1871,Creighton,LA Lafayette,Creighton,2014
+1872,1872,Gonzaga,Oklahoma St,Gonzaga,2014
+1873,1873,Iowa State,NC Central,Iowa State,2014
+1874,1874,Kansas,E Kentucky,Kansas,2014
+1875,1875,Kentucky,Kansas St,Kentucky,2014
+1876,1876,Memphis,Geo Wshgtn,Memphis,2014
+1877,1877,Mercer,Duke,Mercer,2014
+1878,1878,N Carolina,Providence,N Carolina,2014
+1879,1879,Ste F Austin,VCU,Ste F Austin,2014
+1880,1880,Stanford,New Mexico,Stanford,2014
+1881,1881,Tennessee,U Mass,Tennessee,2014
+1882,1882,UCLA,Tulsa,UCLA,2014
+1883,1883,Virginia,Coastal Car,Virginia,2014
+1884,1884,Wichita St,Cal Poly,Wichita St,2014
+1885,1885,Connecticut,Villanova,Connecticut,2014
+1886,1886,Dayton,Syracuse,Dayton,2014
+1887,1887,Florida,Pittsburgh,Florida,2014
+1888,1888,Louisville,Saint Louis,Louisville,2014
+1889,1889,Michigan,Texas,Michigan,2014
+1890,1890,Michigan St,Harvard,Michigan St,2014
+1891,1891,San Diego St,N Dakota St,San Diego St,2014
+1892,1892,Wisconsin,Oregon,Wisconsin,2014
+1893,1893,Arizona,Gonzaga,Arizona,2014
+1894,1894,Baylor,Creighton,Baylor,2014
+1895,1895,Iowa State,N Carolina,Iowa State,2014
+1896,1896,Kentucky,Wichita St,Kentucky,2014
+1897,1897,Stanford,Kansas,Stanford,2014
+1898,1898,Tennessee,Mercer,Tennessee,2014
+1899,1899,UCLA,Ste F Austin,UCLA,2014
+1900,1900,Virginia,Memphis,Virginia,2014
+1901,1901,Arizona,San Diego St,Arizona,2014
+1902,1902,Dayton,Stanford,Dayton,2014
+1903,1903,Florida,UCLA,Florida,2014
+1904,1904,Wisconsin,Baylor,Wisconsin,2014
+1905,1905,Connecticut,Iowa State,Connecticut,2014
+1906,1906,Kentucky,Louisville,Kentucky,2014
+1907,1907,Michigan,Tennessee,Michigan,2014
+1908,1908,Michigan St,Virginia,Michigan St,2014
+1909,1909,Florida,Dayton,Florida,2014
+1910,1910,Wisconsin,Arizona,Wisconsin,2014
+1911,1911,Connecticut,Michigan St,Connecticut,2014
+1912,1912,Kentucky,Michigan,Kentucky,2014
+1913,1913,Connecticut,Florida,Connecticut,2014
+1914,1914,Kentucky,Wisconsin,Kentucky,2014
+1915,1915,Connecticut,Kentucky,Connecticut,2014
+1916,1916,Hampton,Manhattan,Hampton,2015
+1917,1917,Mississippi,BYU,Mississippi,2015
+1918,1918,Dayton,Boise State,Dayton,2015
+1919,1919,Rob Morris,N Florida,Rob Morris,2015
+1920,1920,Arizona,TX Southern,Arizona,2015
+1921,1921,Arkansas,Wofford,Arkansas,2015
+1922,1922,Butler,Texas,Butler,2015
+1923,1923,Cincinnati,Purdue,Cincinnati,2015
+1924,1924,Georgetown,E Washingtn,Georgetown,2015
+1925,1925,Georgia St,Baylor,Georgia St,2015
+1926,1926,Kentucky,Hampton,Kentucky,2015
+1927,1927,NC State,LSU,NC State,2015
+1928,1928,N Carolina,Harvard,N Carolina,2015
+1929,1929,Notre Dame,Northeastrn,Notre Dame,2015
+1930,1930,Ohio State,VCU,Ohio State,2015
+1931,1931,UAB,Iowa State,UAB,2015
+1932,1932,UCLA,S Methodist,UCLA,2015
+1933,1933,Utah,Ste F Austin,Utah,2015
+1934,1934,Villanova,Lafayette,Villanova,2015
+1935,1935,Xavier,Mississippi,Xavier,2015
+1936,1936,Dayton,Providence,Dayton,2015
+1937,1937,Duke,Rob Morris,Duke,2015
+1938,1938,Gonzaga,N Dakota St,Gonzaga,2015
+1939,1939,Iowa,Davidson,Iowa,2015
+1940,1940,Kansas,N Mex State,Kansas,2015
+1941,1941,Louisville,UC Irvine,Louisville,2015
+1942,1942,Maryland,Valparaiso,Maryland,2015
+1943,1943,Michigan St,Georgia,Michigan St,2015
+1944,1944,N Iowa,Wyoming,N Iowa,2015
+1945,1945,Oklahoma,Albany,Oklahoma,2015
+1946,1946,Oregon,Oklahoma St,Oregon,2015
+1947,1947,San Diego St,St Johns,San Diego St,2015
+1948,1948,Virginia,Belmont,Virginia,2015
+1949,1949,W Virginia,Buffalo,W Virginia,2015
+1950,1950,Wichita St,Indiana,Wichita St,2015
+1951,1951,Wisconsin,Coastal Car,Wisconsin,2015
+1952,1952,Arizona,Ohio State,Arizona,2015
+1953,1953,Kentucky,Cincinnati,Kentucky,2015
+1954,1954,NC State,Villanova,NC State,2015
+1955,1955,N Carolina,Arkansas,N Carolina,2015
+1956,1956,Notre Dame,Butler,Notre Dame,2015
+1957,1957,UCLA,UAB,UCLA,2015
+1958,1958,Utah,Georgetown,Utah,2015
+1959,1959,Xavier,Georgia St,Xavier,2015
+1960,1960,Duke,San Diego St,Duke,2015
+1961,1961,Gonzaga,Iowa,Gonzaga,2015
+1962,1962,Louisville,N Iowa,Louisville,2015
+1963,1963,Michigan St,Virginia,Michigan St,2015
+1964,1964,Oklahoma,Dayton,Oklahoma,2015
+1965,1965,W Virginia,Maryland,W Virginia,2015
+1966,1966,Wichita St,Kansas,Wichita St,2015
+1967,1967,Wisconsin,Oregon,Wisconsin,2015
+1968,1968,Arizona,Xavier,Arizona,2015
+1969,1969,Kentucky,W Virginia,Kentucky,2015
+1970,1970,Notre Dame,Wichita St,Notre Dame,2015
+1971,1971,Wisconsin,N Carolina,Wisconsin,2015
+1972,1972,Duke,Utah,Duke,2015
+1973,1973,Gonzaga,UCLA,Gonzaga,2015
+1974,1974,Louisville,NC State,Louisville,2015
+1975,1975,Michigan St,Oklahoma,Michigan St,2015
+1976,1976,Kentucky,Notre Dame,Kentucky,2015
+1977,1977,Wisconsin,Arizona,Wisconsin,2015
+1978,1978,Duke,Gonzaga,Duke,2015
+1979,1979,Michigan St,Louisville,Michigan St,2015
+1980,1980,Duke,Michigan St,Duke,2015
+1981,1981,Wisconsin,Kentucky,Wisconsin,2015
+1982,1982,Duke,Wisconsin,Duke,2015
+1983,1983,Fla Gulf Cst,F Dickinson,Fla Gulf Cst,2016
+1984,1984,Wichita St,Vanderbilt,Wichita St,2016
+1985,1985,Holy Cross,Southern,Holy Cross,2016
+1986,1986,Michigan,Tulsa,Michigan,2016
+1987,1987,AR Lit Rock,Purdue,AR Lit Rock,2016
+1988,1988,Butler,Texas Tech,Butler,2016
+1989,1989,Connecticut,Colorado,Connecticut,2016
+1990,1990,Duke,NC-Wilmgton,Duke,2016
+1991,1991,Gonzaga,Seton Hall,Gonzaga,2016
+1992,1992,Indiana,Chattanooga,Indiana,2016
+1993,1993,Iowa State,Iona,Iowa State,2016
+1994,1994,Kansas,Austin Peay,Kansas,2016
+1995,1995,Kentucky,Stony Brook,Kentucky,2016
+1996,1996,Miami (FL),Buffalo,Miami (FL),2016
+1997,1997,N Carolina,Fla Gulf Cst,N Carolina,2016
+1998,1998,Providence,USC,Providence,2016
+1999,1999,Utah,Fresno St,Utah,2016
+2000,2000,Virginia,Hampton,Virginia,2016
+2001,2001,Wichita St,Arizona,Wichita St,2016
+2002,2002,Yale,Baylor,Yale,2016
+2003,2003,Hawaii,California,Hawaii,2016
+2004,2004,Iowa,Temple,Iowa,2016
+2005,2005,Maryland,S Dakota St,Maryland,2016
+2006,2006,Middle Tenn,Michigan St,Middle Tenn,2016
+2007,2007,N Iowa,Texas,N Iowa,2016
+2008,2008,Notre Dame,Michigan,Notre Dame,2016
+2009,2009,Oklahoma,CS Bakersfld,Oklahoma,2016
+2010,2010,Oregon,Holy Cross,Oregon,2016
+2011,2011,Ste F Austin,W Virginia,Ste F Austin,2016
+2012,2012,St Josephs,Cincinnati,St Josephs,2016
+2013,2013,Syracuse,Dayton,Syracuse,2016
+2014,2014,Texas A&M,WI-Grn Bay,Texas A&M,2016
+2015,2015,VCU,Oregon St,VCU,2016
+2016,2016,Villanova,NC-Asheville,Villanova,2016
+2017,2017,Wisconsin,Pittsburgh,Wisconsin,2016
+2018,2018,Xavier,Weber State,Xavier,2016
+2019,2019,Duke,Yale,Duke,2016
+2020,2020,Gonzaga,Utah,Gonzaga,2016
+2021,2021,Indiana,Kentucky,Indiana,2016
+2022,2022,Iowa State,AR Lit Rock,Iowa State,2016
+2023,2023,Kansas,Connecticut,Kansas,2016
+2024,2024,Miami (FL),Wichita St,Miami (FL),2016
+2025,2025,N Carolina,Providence,N Carolina,2016
+2026,2026,Virginia,Butler,Virginia,2016
+2027,2027,Maryland,Hawaii,Maryland,2016
+2028,2028,Notre Dame,Ste F Austin,Notre Dame,2016
+2029,2029,Oklahoma,VCU,Oklahoma,2016
+2030,2030,Oregon,St Josephs,Oregon,2016
+2031,2031,Syracuse,Middle Tenn,Syracuse,2016
+2032,2032,Texas A&M,N Iowa,Texas A&M,2016
+2033,2033,Villanova,Iowa,Villanova,2016
+2034,2034,Wisconsin,Xavier,Wisconsin,2016
+2035,2035,Kansas,Maryland,Kansas,2016
+2036,2036,Oklahoma,Texas A&M,Oklahoma,2016
+2037,2037,Oregon,Duke,Oregon,2016
+2038,2038,Villanova,Miami (FL),Villanova,2016
+2039,2039,N Carolina,Indiana,N Carolina,2016
+2040,2040,Notre Dame,Wisconsin,Notre Dame,2016
+2041,2041,Syracuse,Gonzaga,Syracuse,2016
+2042,2042,Virginia,Iowa State,Virginia,2016
+2043,2043,Oklahoma,Oregon,Oklahoma,2016
+2044,2044,Villanova,Kansas,Villanova,2016
+2045,2045,N Carolina,Notre Dame,N Carolina,2016
+2046,2046,Syracuse,Virginia,Syracuse,2016
+2047,2047,N Carolina,Syracuse,N Carolina,2016
+2048,2048,Villanova,Oklahoma,Villanova,2016
+2049,2049,Villanova,N Carolina,Villanova,2016
+2050,2050,Kansas St,Wake Forest,Kansas St,2017
+2051,2051,Mt St Marys,New Orleans,Mt St Marys,2017
+2052,2052,UC Davis,NC Central,UC Davis,2017
+2053,2053,USC,Providence,USC,2017
+2054,2054,Arizona,North Dakota,Arizona,2017
+2055,2055,Butler,Winthrop,Butler,2017
+2056,2056,Florida,E Tenn St,Florida,2017
+2057,2057,Florida St,Fla Gulf Cst,Florida St,2017
+2058,2058,Gonzaga,S Dakota St,Gonzaga,2017
+2059,2059,Iowa State,Nevada,Iowa State,2017
+2060,2060,Middle Tenn,Minnesota,Middle Tenn,2017
+2061,2061,Northwestern,Vanderbilt,Northwestern,2017
+2062,2062,Notre Dame,Princeton,Notre Dame,2017
+2063,2063,Purdue,Vermont,Purdue,2017
+2064,2064,St Marys,VCU,St Marys,2017
+2065,2065,Villanova,Mt St Marys,Villanova,2017
+2066,2066,Virginia,NC-Wilmgton,Virginia,2017
+2067,2067,W Virginia,Bucknell,W Virginia,2017
+2068,2068,Wisconsin,VA Tech,Wisconsin,2017
+2069,2069,Xavier,Maryland,Xavier,2017
+2070,2070,Arkansas,Seton Hall,Arkansas,2017
+2071,2071,Baylor,N Mex State,Baylor,2017
+2072,2072,Cincinnati,Kansas St,Cincinnati,2017
+2073,2073,Duke,Troy,Duke,2017
+2074,2074,Kansas,UC Davis,Kansas,2017
+2075,2075,Kentucky,N Kentucky,Kentucky,2017
+2076,2076,Louisville,Jacksonville,Louisville,2017
+2077,2077,Michigan,Oklahoma St,Michigan,2017
+2078,2078,Michigan St,Miami (FL),Michigan St,2017
+2079,2079,N Carolina,TX Southern,N Carolina,2017
+2080,2080,Oregon,Iona,Oregon,2017
+2081,2081,Rhode Island,Creighton,Rhode Island,2017
+2082,2082,S Carolina,Marquette,S Carolina,2017
+2083,2083,UCLA,Kent State,UCLA,2017
+2084,2084,USC,S Methodist,USC,2017
+2085,2085,Wichita St,Dayton,Wichita St,2017
+2086,2086,Arizona,St Marys,Arizona,2017
+2087,2087,Butler,Middle Tenn,Butler,2017
+2088,2088,Florida,Virginia,Florida,2017
+2089,2089,Gonzaga,Northwestern,Gonzaga,2017
+2090,2090,Purdue,Iowa State,Purdue,2017
+2091,2091,W Virginia,Notre Dame,W Virginia,2017
+2092,2092,Wisconsin,Villanova,Wisconsin,2017
+2093,2093,Xavier,Florida St,Xavier,2017
+2094,2094,Baylor,USC,Baylor,2017
+2095,2095,Kansas,Michigan St,Kansas,2017
+2096,2096,Kentucky,Wichita St,Kentucky,2017
+2097,2097,Michigan,Louisville,Michigan,2017
+2098,2098,N Carolina,Arkansas,N Carolina,2017
+2099,2099,Oregon,Rhode Island,Oregon,2017
+2100,2100,S Carolina,Duke,S Carolina,2017
+2101,2101,UCLA,Cincinnati,UCLA,2017
+2102,2102,Gonzaga,W Virginia,Gonzaga,2017
+2103,2103,Kansas,Purdue,Kansas,2017
+2104,2104,Oregon,Michigan,Oregon,2017
+2105,2105,Xavier,Arizona,Xavier,2017
+2106,2106,Florida,Wisconsin,Florida,2017
+2107,2107,Kentucky,UCLA,Kentucky,2017
+2108,2108,N Carolina,Butler,N Carolina,2017
+2109,2109,S Carolina,Baylor,S Carolina,2017
+2110,2110,Gonzaga,Xavier,Gonzaga,2017
+2111,2111,Oregon,Kansas,Oregon,2017
+2112,2112,N Carolina,Kentucky,N Carolina,2017
+2113,2113,S Carolina,Florida,S Carolina,2017
+2114,2114,Gonzaga,S Carolina,Gonzaga,2017
+2115,2115,N Carolina,Oregon,N Carolina,2017
+2116,2116,N Carolina,Gonzaga,N Carolina,2017
+2117,2117,Radford,LIU-Brooklyn,Radford,2018
+2118,2118,St Bonavent,UCLA,St Bonavent,2018
+2119,2119,Syracuse,Arizona St,Syracuse,2018
+2120,2120,TX Southern,NC Central,TX Southern,2018
+2121,2121,Alabama,VA Tech,Alabama,2018
+2122,2122,Buffalo,Arizona,Buffalo,2018
+2123,2123,Duke,Iona,Duke,2018
+2124,2124,Florida,St Bonavent,Florida,2018
+2125,2125,Gonzaga,NC-Grnsboro,Gonzaga,2018
+2126,2126,Houston,San Diego St,Houston,2018
+2127,2127,Kansas,U Penn,Kansas,2018
+2128,2128,Kentucky,Davidson,Kentucky,2018
+2129,2129,Loyola-Chi,Miami (FL),Loyola-Chi,2018
+2130,2130,Michigan,Montana,Michigan,2018
+2131,2131,Ohio State,S Dakota St,Ohio State,2018
+2132,2132,Rhode Island,Oklahoma,Rhode Island,2018
+2133,2133,Seton Hall,NC State,Seton Hall,2018
+2134,2134,Tennessee,Wright State,Tennessee,2018
+2135,2135,Texas Tech,Ste F Austin,Texas Tech,2018
+2136,2136,Villanova,Radford,Villanova,2018
+2137,2137,Auburn,Col Charlestn,Auburn,2018
+2138,2138,Butler,Arkansas,Butler,2018
+2139,2139,Cincinnati,Georgia St,Cincinnati,2018
+2140,2140,Clemson,N Mex State,Clemson,2018
+2141,2141,Florida St,Missouri,Florida St,2018
+2142,2142,Kansas St,Creighton,Kansas St,2018
+2143,2143,Marshall,Wichita St,Marshall,2018
+2144,2144,Michigan St,Bucknell,Michigan St,2018
+2145,2145,Nevada,Texas,Nevada,2018
+2146,2146,N Carolina,Lipscomb,N Carolina,2018
+2147,2147,Purdue,CS Fullerton,Purdue,2018
+2148,2148,Syracuse,TX Christian,Syracuse,2018
+2149,2149,Texas A&M,Providence,Texas A&M,2018
+2150,2150,Maryland BC,Virginia,Maryland BC,2018
+2151,2151,W Virginia,Murray St,W Virginia,2018
+2152,2152,Xavier,TX Southern,Xavier,2018
+2153,2153,Duke,Rhode Island,Duke,2018
+2154,2154,Gonzaga,Ohio State,Gonzaga,2018
+2155,2155,Kansas,Seton Hall,Kansas,2018
+2156,2156,Kentucky,Buffalo,Kentucky,2018
+2157,2157,Loyola-Chi,Tennessee,Loyola-Chi,2018
+2158,2158,Michigan,Houston,Michigan,2018
+2159,2159,Texas Tech,Florida,Texas Tech,2018
+2160,2160,Villanova,Alabama,Villanova,2018
+2161,2161,Clemson,Auburn,Clemson,2018
+2162,2162,Florida St,Xavier,Florida St,2018
+2163,2163,Kansas St,Maryland BC,Kansas St,2018
+2164,2164,Nevada,Cincinnati,Nevada,2018
+2165,2165,Purdue,Butler,Purdue,2018
+2166,2166,Syracuse,Michigan St,Syracuse,2018
+2167,2167,Texas A&M,N Carolina,Texas A&M,2018
+2168,2168,W Virginia,Marshall,W Virginia,2018
+2169,2169,Florida St,Gonzaga,Florida St,2018
+2170,2170,Kansas St,Kentucky,Kansas St,2018
+2171,2171,Loyola-Chi,Nevada,Loyola-Chi,2018
+2172,2172,Michigan,Texas A&M,Michigan,2018
+2173,2173,Duke,Syracuse,Duke,2018
+2174,2174,Kansas,Clemson,Kansas,2018
+2175,2175,Texas Tech,Purdue,Texas Tech,2018
+2176,2176,Villanova,W Virginia,Villanova,2018
+2177,2177,Loyola-Chi,Kansas St,Loyola-Chi,2018
+2178,2178,Michigan,Florida St,Michigan,2018
+2179,2179,Kansas,Duke,Kansas,2018
+2180,2180,Villanova,Texas Tech,Villanova,2018
+2181,2181,Michigan,Loyola-Chi,Michigan,2018
+2182,2182,Villanova,Kansas,Villanova,2018
+2183,2183,Villanova,Michigan,Villanova,2018
+2184,2184,Belmont,Temple,Belmont,2019
+2185,2185,F Dickinson,Prairie View,F Dickinson,2019
+2186,2186,Arizona St,St Johns,Arizona St,2019
+2187,2187,N Dakota St,NC Central,N Dakota St,2019
+2188,2188,Auburn,N Mex State,Auburn,2019
+2189,2189,Baylor,Syracuse,Baylor,2019
+2190,2190,Florida,Nevada,Florida,2019
+2191,2191,Florida St,Vermont,Florida St,2019
+2192,2192,Gonzaga,F Dickinson,Gonzaga,2019
+2193,2193,Kansas,Northeastrn,Kansas,2019
+2194,2194,Kentucky,Abl Christian,Kentucky,2019
+2195,2195,LSU,Yale,LSU,2019
+2196,2196,Maryland,Belmont,Maryland,2019
+2197,2197,Michigan,Montana,Michigan,2019
+2198,2198,Michigan St,Bradley,Michigan St,2019
+2199,2199,Minnesota,Louisville,Minnesota,2019
+2200,2200,Murray St,Marquette,Murray St,2019
+2201,2201,Purdue,Old Dominion,Purdue,2019
+2202,2202,Villanova,St Marys,Villanova,2019
+2203,2203,Wofford,Seton Hall,Wofford,2019
+2204,2204,Buffalo,Arizona St,Buffalo,2019
+2205,2205,Duke,N Dakota St,Duke,2019
+2206,2206,Houston,Georgia St,Houston,2019
+2207,2207,Iowa,Cincinnati,Iowa,2019
+2208,2208,Liberty,Miss State,Liberty,2019
+2209,2209,N Carolina,Iona,N Carolina,2019
+2210,2210,Ohio State,Iowa State,Ohio State,2019
+2211,2211,Oklahoma,Mississippi,Oklahoma,2019
+2212,2212,Oregon,Wisconsin,Oregon,2019
+2213,2213,Tennessee,Colgate,Tennessee,2019
+2214,2214,Texas Tech,N Kentucky,Texas Tech,2019
+2215,2215,UC Irvine,Kansas St,UC Irvine,2019
+2216,2216,Central FL,VCU,Central FL,2019
+2217,2217,Virginia,Gard-Webb,Virginia,2019
+2218,2218,VA Tech,Saint Louis,VA Tech,2019
+2219,2219,Washington,Utah State,Washington,2019
+2220,2220,Auburn,Kansas,Auburn,2019
+2221,2221,Florida St,Murray St,Florida St,2019
+2222,2222,Gonzaga,Baylor,Gonzaga,2019
+2223,2223,Kentucky,Wofford,Kentucky,2019
+2224,2224,LSU,Maryland,LSU,2019
+2225,2225,Michigan,Florida,Michigan,2019
+2226,2226,Michigan St,Minnesota,Michigan St,2019
+2227,2227,Purdue,Villanova,Purdue,2019
+2228,2228,Duke,Central FL,Duke,2019
+2229,2229,Houston,Ohio State,Houston,2019
+2230,2230,N Carolina,Washington,N Carolina,2019
+2231,2231,Oregon,UC Irvine,Oregon,2019
+2232,2232,Tennessee,Iowa,Tennessee,2019
+2233,2233,Texas Tech,Buffalo,Texas Tech,2019
+2234,2234,Virginia,Oklahoma,Virginia,2019
+2235,2235,VA Tech,Liberty,VA Tech,2019
+2236,2236,Gonzaga,Florida St,Gonzaga,2019
+2237,2237,Purdue,Tennessee,Purdue,2019
+2238,2238,Texas Tech,Michigan,Texas Tech,2019
+2239,2239,Virginia,Oregon,Virginia,2019
+2240,2240,Auburn,N Carolina,Auburn,2019
+2241,2241,Duke,VA Tech,Duke,2019
+2242,2242,Kentucky,Houston,Kentucky,2019
+2243,2243,Michigan St,LSU,Michigan St,2019
+2244,2244,Texas Tech,Gonzaga,Texas Tech,2019
+2245,2245,Virginia,Purdue,Virginia,2019
+2246,2246,Auburn,Kentucky,Auburn,2019
+2247,2247,Michigan St,Duke,Michigan St,2019
+2248,2248,Texas Tech,Michigan St,Texas Tech,2019
+2249,2249,Virginia,Auburn,Virginia,2019
+2250,2250,Virginia,Texas Tech,Virginia,2019
+2251,2251,Drake,Wichita St,Drake,2021
+2252,2252,Norfolk St,App State,Norfolk St,2021
+2253,2253,TX Southern,Mt St Marys,TX Southern,2021
+2254,2254,UCLA,Michigan St,UCLA,2021
+2255,2255,Arkansas,Colgate,Arkansas,2021
+2256,2256,Baylor,Hartford,Baylor,2021
+2257,2257,Florida,VA Tech,Florida,2021
+2258,2258,Houston,Cleveland St,Houston,2021
+2259,2259,Illinois,Drexel,Illinois,2021
+2260,2260,Loyola-Chi,GA Tech,Loyola-Chi,2021
+2261,2261,North Texas,Purdue,North Texas,2021
+2262,2262,Oklahoma St,Liberty,Oklahoma St,2021
+2263,2263,Oral Roberts,Ohio State,Oral Roberts,2021
+2264,2264,Oregon St,Tennessee,Oregon St,2021
+2265,2265,Rutgers,Clemson,Rutgers,2021
+2266,2266,Syracuse,San Diego St,Syracuse,2021
+2267,2267,Texas Tech,Utah State,Texas Tech,2021
+2268,2268,Villanova,Winthrop,Villanova,2021
+2269,2269,W Virginia,Morehead St,W Virginia,2021
+2270,2270,Wisconsin,N Carolina,Wisconsin,2021
+2271,2271,Abl Christian,Texas,Abl Christian,2021
+2272,2272,Alabama,Iona,Alabama,2021
+2273,2273,Colorado,Georgetown,Colorado,2021
+2274,2274,Creighton,UCSB,Creighton,2021
+2275,2275,Florida St,NC-Grnsboro,Florida St,2021
+2276,2276,Gonzaga,Norfolk St,Gonzaga,2021
+2277,2277,Iowa,Grd Canyon,Iowa,2021
+2278,2278,Kansas,E Washingtn,Kansas,2021
+2279,2279,LSU,St Bonavent,LSU,2021
+2280,2280,Maryland,Connecticut,Maryland,2021
+2281,2281,Michigan,TX Southern,Michigan,2021
+2282,2282,Ohio,Virginia,Ohio,2021
+2283,2283,Oklahoma,Missouri,Oklahoma,2021
+2284,2284,UCLA,BYU,UCLA,2021
+2285,2285,USC,Drake,USC,2021
+2286,2286,Arkansas,Texas Tech,Arkansas,2021
+2287,2287,Baylor,Wisconsin,Baylor,2021
+2288,2288,Houston,Rutgers,Houston,2021
+2289,2289,Loyola-Chi,Illinois,Loyola-Chi,2021
+2290,2290,Oral Roberts,Florida,Oral Roberts,2021
+2291,2291,Oregon St,Oklahoma St,Oregon St,2021
+2292,2292,Syracuse,W Virginia,Syracuse,2021
+2293,2293,Villanova,North Texas,Villanova,2021
+2294,2294,Alabama,Maryland,Alabama,2021
+2295,2295,Creighton,Ohio,Creighton,2021
+2296,2296,Florida St,Colorado,Florida St,2021
+2297,2297,Gonzaga,Oklahoma,Gonzaga,2021
+2298,2298,Michigan,LSU,Michigan,2021
+2299,2299,Oregon,Iowa,Oregon,2021
+2300,2300,UCLA,Abl Christian,UCLA,2021
+2301,2301,USC,Kansas,USC,2021
+2302,2302,Arkansas,Oral Roberts,Arkansas,2021
+2303,2303,Baylor,Villanova,Baylor,2021
+2304,2304,Houston,Syracuse,Houston,2021
+2305,2305,Oregon St,Loyola-Chi,Oregon St,2021
+2306,2306,Gonzaga,Creighton,Gonzaga,2021
+2307,2307,Michigan,Florida St,Michigan,2021
+2308,2308,UCLA,Alabama,UCLA,2021
+2309,2309,USC,Oregon,USC,2021
+2310,2310,Baylor,Arkansas,Baylor,2021
+2311,2311,Houston,Oregon St,Houston,2021
+2312,2312,Gonzaga,USC,Gonzaga,2021
+2313,2313,UCLA,Michigan,UCLA,2021
+2314,2314,Baylor,Houston,Baylor,2021
+2315,2315,Gonzaga,UCLA,Gonzaga,2021
+2316,2316,Baylor,Gonzaga,Baylor,2021
+2317,2317,Indiana,Wyoming,Indiana,2022
+2318,2318,TX Southern,TAM C. Christi,TX Southern,2022
+2319,2319,Notre Dame,Rutgers,Notre Dame,2022
+2320,2320,Wright State,Bryant,Wright State,2022
+2321,2321,Arkansas,Vermont,Arkansas,2022
+2322,2322,Baylor,Norfolk St,Baylor,2022
+2323,2323,Creighton,San Diego St,Creighton,2022
+2324,2324,Gonzaga,Georgia St,Gonzaga,2022
+2325,2325,Kansas,TX Southern,Kansas,2022
+2326,2326,Memphis,Boise State,Memphis,2022
+2327,2327,Michigan,Colorado St,Michigan,2022
+2328,2328,Murray St,San Francisco,Murray St,2022
+2329,2329,N Mex State,Connecticut,N Mex State,2022
+2330,2330,N Carolina,Marquette,N Carolina,2022
+2331,2331,Providence,S Dakota St,Providence,2022
+2332,2332,Richmond,Iowa,Richmond,2022
+2333,2333,St Marys,Indiana,St Marys,2022
+2334,2334,St Peter's,Kentucky,St Peter's,2022
+2335,2335,Tennessee,Longwood,Tennessee,2022
+2336,2336,UCLA,Akron,UCLA,2022
+2337,2337,Arizona,Wright State,Arizona,2022
+2338,2338,Auburn,Jacksonville,Auburn,2022
+2339,2339,Duke,CS Fullerton,Duke,2022
+2340,2340,Houston,UAB,Houston,2022
+2341,2341,Illinois,Chattanooga,Illinois,2022
+2342,2342,Iowa State,LSU,Iowa State,2022
+2343,2343,Miami (FL),USC,Miami (FL),2022
+2344,2344,Michigan St,Davidson,Michigan St,2022
+2345,2345,Notre Dame,Alabama,Notre Dame,2022
+2346,2346,Ohio State,Loyola-Chi,Ohio State,2022
+2347,2347,Purdue,Yale,Purdue,2022
+2348,2348,TX Christian,Seton Hall,TX Christian,2022
+2349,2349,Texas,VA Tech,Texas,2022
+2350,2350,Texas Tech,Montana St,Texas Tech,2022
+2351,2351,Villanova,Delaware,Villanova,2022
+2352,2352,Wisconsin,Colgate,Wisconsin,2022
+2353,2353,Arkansas,N Mex State,Arkansas,2022
+2354,2354,Gonzaga,Memphis,Gonzaga,2022
+2355,2355,Kansas,Creighton,Kansas,2022
+2356,2356,Michigan,Tennessee,Michigan,2022
+2357,2357,N Carolina,Baylor,N Carolina,2022
+2358,2358,Providence,Richmond,Providence,2022
+2359,2359,St Peter's,Murray St,St Peter's,2022
+2360,2360,UCLA,St Marys,UCLA,2022
+2361,2361,Arizona,TX Christian,Arizona,2022
+2362,2362,Duke,Michigan St,Duke,2022
+2363,2363,Houston,Illinois,Houston,2022
+2364,2364,Iowa State,Wisconsin,Iowa State,2022
+2365,2365,Miami (FL),Auburn,Miami (FL),2022
+2366,2366,Purdue,Texas,Purdue,2022
+2367,2367,Texas Tech,Notre Dame,Texas Tech,2022
+2368,2368,Villanova,Ohio State,Villanova,2022
+2369,2369,Arkansas,Gonzaga,Arkansas,2022
+2370,2370,Duke,Texas Tech,Duke,2022
+2371,2371,Houston,Arizona,Houston,2022
+2372,2372,Villanova,Michigan,Villanova,2022
+2373,2373,Kansas,Providence,Kansas,2022
+2374,2374,Miami (FL),Iowa State,Miami (FL),2022
+2375,2375,N Carolina,UCLA,N Carolina,2022
+2376,2376,St Peter's,Purdue,St Peter's,2022
+2377,2377,Duke,Arkansas,Duke,2022
+2378,2378,Villanova,Houston,Villanova,2022
+2379,2379,Kansas,Miami (FL),Kansas,2022
+2380,2380,N Carolina,St Peter's,N Carolina,2022
+2381,2381,Kansas,Villanova,Kansas,2022
+2382,2382,N Carolina,Duke,N Carolina,2022
+2383,2383,Kansas,N Carolina,Kansas,2022
+2384,2384,Pittsburgh,Miss State,Pittsburgh,2023
+2385,2385,TAM C. Christi,SE Missouri St,TAM C. Christi,2023
+2386,2386,Arizona St,Nevada,Arizona St,2023
+2387,2387,F Dickinson,TX Southern,F Dickinson,2023
+2388,2388,Alabama,TAM C. Christi,Alabama,2023
+2389,2389,Arkansas,Illinois,Arkansas,2023
+2390,2390,Auburn,Iowa,Auburn,2023
+2391,2391,Duke,Oral Roberts,Duke,2023
+2392,2392,Furman,Virginia,Furman,2023
+2393,2393,Houston,N Kentucky,Houston,2023
+2394,2394,Kansas,Howard,Kansas,2023
+2395,2395,Maryland,W Virginia,Maryland,2023
+2396,2396,Missouri,Utah State,Missouri,2023
+2397,2397,Northwestern,Boise State,Northwestern,2023
+2398,2398,Penn St,Texas A&M,Penn St,2023
+2399,2399,Princeton,Arizona,Princeton,2023
+2400,2400,San Diego St,Col Charlestn,San Diego St,2023
+2401,2401,Tennessee,LA Lafayette,Tennessee,2023
+2402,2402,Texas,Colgate,Texas,2023
+2403,2403,UCLA,NC-Asheville,UCLA,2023
+2404,2404,Baylor,UCSB,Baylor,2023
+2405,2405,Connecticut,Iona,Connecticut,2023
+2406,2406,Creighton,NC State,Creighton,2023
+2407,2407,F Dickinson,Purdue,F Dickinson,2023
+2408,2408,FL Atlantic,Memphis,FL Atlantic,2023
+2409,2409,Gonzaga,Grd Canyon,Gonzaga,2023
+2410,2410,Indiana,Kent State,Indiana,2023
+2411,2411,Kansas St,Montana St,Kansas St,2023
+2412,2412,Kentucky,Providence,Kentucky,2023
+2413,2413,Marquette,Vermont,Marquette,2023
+2414,2414,Miami (FL),Drake,Miami (FL),2023
+2415,2415,Michigan St,USC,Michigan St,2023
+2416,2416,Pittsburgh,Iowa State,Pittsburgh,2023
+2417,2417,St Marys,VCU,St Marys,2023
+2418,2418,TX Christian,Arizona St,TX Christian,2023
+2419,2419,Xavier,Kennesaw,Xavier,2023
+2420,2420,Alabama,Maryland,Alabama,2023
+2421,2421,Arkansas,Kansas,Arkansas,2023
+2422,2422,Houston,Auburn,Houston,2023
+2423,2423,Princeton,Missouri,Princeton,2023
+2424,2424,San Diego St,Furman,San Diego St,2023
+2425,2425,Tennessee,Duke,Tennessee,2023
+2426,2426,Texas,Penn St,Texas,2023
+2427,2427,UCLA,Northwestern,UCLA,2023
+2428,2428,Connecticut,St Marys,Connecticut,2023
+2429,2429,Creighton,Baylor,Creighton,2023
+2430,2430,FL Atlantic,F Dickinson,FL Atlantic,2023
+2431,2431,Gonzaga,TX Christian,Gonzaga,2023
+2432,2432,Kansas St,Kentucky,Kansas St,2023
+2433,2433,Miami (FL),Indiana,Miami (FL),2023
+2434,2434,Michigan St,Marquette,Michigan St,2023
+2435,2435,Xavier,Pittsburgh,Xavier,2023
+2436,2436,Connecticut,Arkansas,Connecticut,2023
+2437,2437,FL Atlantic,Tennessee,FL Atlantic,2023
+2438,2438,Gonzaga,UCLA,Gonzaga,2023
+2439,2439,Kansas St,Michigan St,Kansas St,2023
+2440,2440,Creighton,Princeton,Creighton,2023
+2441,2441,Miami (FL),Houston,Miami (FL),2023
+2442,2442,San Diego St,Alabama,San Diego St,2023
+2443,2443,Texas,Xavier,Texas,2023
+2444,2444,Connecticut,Gonzaga,Connecticut,2023
+2445,2445,FL Atlantic,Kansas St,FL Atlantic,2023
+2446,2446,Miami (FL),Texas,Miami (FL),2023
+2447,2447,San Diego St,Creighton,San Diego St,2023
+2448,2448,Connecticut,Miami (FL),Connecticut,2023
+2449,2449,San Diego St,FL Atlantic,San Diego St,2023
+2450,2450,Connecticut,San Diego St,Connecticut,2023
+2451,2451,Colorado St,Virginia,Colorado St,2024
+2452,2452,Wagner,Howard,Wagner,2024
+2453,2453,Colorado,Boise State,Colorado,2024
+2454,2454,Grambling,Montana St,Grambling,2024
+2455,2455,Arizona,Lg Beach St,Arizona,2024
+2456,2456,Creighton,Akron,Creighton,2024
+2457,2457,Dayton,Nevada,Dayton,2024
+2458,2458,Duquesne,BYU,Duquesne,2024
+2459,2459,Gonzaga,McNeese St,Gonzaga,2024
+2460,2460,Illinois,Morehead St,Illinois,2024
+2461,2461,Iowa State,S Dakota St,Iowa State,2024
+2462,2462,Kansas,Samford,Kansas,2024
+2463,2463,Michigan St,Miss State,Michigan St,2024
+2464,2464,NC State,Texas Tech,NC State,2024
+2465,2465,N Carolina,Wagner,N Carolina,2024
+2466,2466,Oakland,Kentucky,Oakland,2024
+2467,2467,Oregon,S Carolina,Oregon,2024
+2468,2468,Tennessee,St Peter's,Tennessee,2024
+2469,2469,Texas,Colorado St,Texas,2024
+2470,2470,Washington St,Drake,Washington St,2024
+2471,2471,Alabama,Col Charlestn,Alabama,2024
+2472,2472,Baylor,Colgate,Baylor,2024
+2473,2473,Clemson,New Mexico,Clemson,2024
+2474,2474,Colorado,Florida,Colorado,2024
+2475,2475,Connecticut,Stetson,Connecticut,2024
+2476,2476,Duke,Vermont,Duke,2024
+2477,2477,Grd Canyon,St Marys,Grd Canyon,2024
+2478,2478,Houston,Longwood,Houston,2024
+2479,2479,James Mad,Wisconsin,James Mad,2024
+2480,2480,Marquette,W Kentucky,Marquette,2024
+2481,2481,Northwestern,FL Atlantic,Northwestern,2024
+2482,2482,Purdue,Grambling,Purdue,2024
+2483,2483,San Diego St,UAB,San Diego St,2024
+2484,2484,Texas A&M,Nebraska,Texas A&M,2024
+2485,2485,Utah State,TX Christian,Utah State,2024
+2486,2486,Yale,Auburn,Yale,2024
+2487,2487,Arizona,Dayton,Arizona,2024
+2488,2488,Creighton,Oregon,Creighton,2024
+2489,2489,Gonzaga,Kansas,Gonzaga,2024
+2490,2490,Illinois,Duquesne,Illinois,2024
+2491,2491,Iowa State,Washington St,Iowa State,2024
+2492,2492,NC State,Oakland,NC State,2024
+2493,2493,N Carolina,Michigan St,N Carolina,2024
+2494,2494,Tennessee,Texas,Tennessee,2024
+2495,2495,Alabama,Grd Canyon,Alabama,2024
+2496,2496,Clemson,Baylor,Clemson,2024
+2497,2497,Connecticut,Northwestern,Connecticut,2024
+2498,2498,Duke,James Mad,Duke,2024
+2499,2499,Houston,Texas A&M,Houston,2024
+2500,2500,Marquette,Colorado,Marquette,2024
+2501,2501,Purdue,Utah State,Purdue,2024
+2502,2502,San Diego St,Yale,San Diego St,2024
+2503,2503,Alabama,N Carolina,Alabama,2024
+2504,2504,Clemson,Arizona,Clemson,2024
+2505,2505,Connecticut,San Diego St,Connecticut,2024
+2506,2506,Illinois,Iowa State,Illinois,2024
+2507,2507,Duke,Houston,Duke,2024
+2508,2508,NC State,Marquette,NC State,2024
+2509,2509,Purdue,Gonzaga,Purdue,2024
+2510,2510,Tennessee,Creighton,Tennessee,2024
+2511,2511,Alabama,Clemson,Alabama,2024
+2512,2512,Connecticut,Illinois,Connecticut,2024
+2513,2513,NC State,Duke,NC State,2024
+2514,2514,Purdue,Tennessee,Purdue,2024
+2515,2515,Connecticut,Alabama,Connecticut,2024
+2516,2516,Purdue,NC State,Purdue,2024
+2517,2517,Connecticut,Purdue,Connecticut,2024
