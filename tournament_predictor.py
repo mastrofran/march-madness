@@ -14,9 +14,13 @@ from thefuzz import process, fuzz
 from io import StringIO
 import time
 import re
-from xgboost import XGBClassifier
 import pickle
 from sklearn.impute import SimpleImputer
+import hashlib
+from joblib import Memory
+import optuna
+from sklearn.calibration import CalibratedClassifierCV
+from sklearn.model_selection import cross_val_score
 
 # ======================
 # CONFIGURATION
@@ -45,6 +49,12 @@ END_YEAR = 2025
 YEARS = list(range(START_YEAR, END_YEAR + 1))
 if 2020 in YEARS:
     YEARS.remove(2020)
+
+
+# ======================
+# MEMORY CACHE
+# ======================
+memory = Memory(location='./cache', verbose=0)
 
 # ======================
 # FUZZY MATCHING CLASS
@@ -79,6 +89,7 @@ class FuzzyTeamMatcher:
 # ======================
 # IMPROVED WEB SCRAPER
 # ======================
+@memory.cache
 def scrape_team_rankings(year, stat_url):
     """Scrape team statistics using pandas read_html with fuzzy cleaning"""
     url = f"https://www.teamrankings.com/ncaa-basketball/{stat_url}?date={year}-03-18"
@@ -179,8 +190,12 @@ def process_features(matchups):
             for stat in STATS.values():
                 feature_row[f'{stat}_Diff'] = t1_stats[stat] - t2_stats[stat]
                 feature_row[f'{stat}_Ratio'] = t1_stats[stat] / (t2_stats[stat] + 1e-8)
+
+            # New: Interaction terms
+            feature_row[f'{stat}_Product'] = t1_stats[stat] * t2_stats[stat]
+            feature_row[f'{stat}_SquaredDiff'] = (t1_stats[stat] - t2_stats[stat])**2
             
-            feature_row['Target'] = 1 if row['Winner'] == t1 else 0
+            feature_row['Target'] = row['Target']
             features.append(feature_row)
             
         except IndexError:
@@ -213,14 +228,13 @@ def process_features(matchups):
 # MODEL TRAINING
 # ======================
 def train_model(features):
-    """Train and evaluate predictive models"""
+    """Train and evaluate predictive models with Optuna optimization"""
     feature_cols = [col for col in feature_df.columns 
-                   if '_Diff' in col or '_Ratio' in col]
+                   if '_Diff' in col or '_Ratio' in col or '_Product' in col or '_SquaredDiff' in col]
     X = feature_df[feature_cols]
     y = features['Target']
 
-    # +++ ADD THIS VALIDATION +++
-    # Final check for remaining missing values
+    # Handle missing values
     if X.isna().sum().sum() > 0:
         print("Warning: Data still contains missing values after imputation")
         print(X.isna().sum())
@@ -231,79 +245,119 @@ def train_model(features):
         X, y, test_size=0.2, random_state=42, stratify=y
     )
     
-    
     scaler = StandardScaler()
-    X_train = scaler.fit_transform(X_train)
-    X_test = scaler.transform(X_test)
-    
-    models = {
-        'Logistic Regression': LogisticRegression(
-            penalty='l2', 
-            C=0.1, 
-            solver='liblinear',
-            max_iter=2000
-        ),
-        'Random Forest': RandomForestClassifier(
-            n_estimators=500,
-            max_depth=5,
-            class_weight='balanced'
-        ),
-        'XGBoost': XGBClassifier(
-            n_estimators=150,
-            learning_rate=0.1,
-            max_depth=3,
-            eval_metric='logloss'
-        ),
-        'Linear SVC': LinearSVC(
-            dual=False,
-            max_iter=5000,
-            class_weight='balanced'
-        )
-    }
+    X_train_scaled = scaler.fit_transform(X_train)
+    X_test_scaled = scaler.transform(X_test)
     
     best_models = {}
-    best_overall = {'name': None, 'score': float('inf')}
+    
+    # Define model configurations with Optuna search spaces
+    model_configs = {
+        'Logistic Regression': {
+            'class': LogisticRegression,
+            'params': lambda trial: {
+                'C': trial.suggest_float('C', 1e-4, 1e2, log=True),
+                'penalty': trial.suggest_categorical('penalty', ['l1', 'l2']),
+                'solver': trial.suggest_categorical('solver', ['liblinear', 'saga']),
+                'max_iter': trial.suggest_int('max_iter', 100, 2000),
+                'class_weight': trial.suggest_categorical('class_weight', [None, 'balanced'])
+            }
+        },
+        'Random Forest': {
+            'class': RandomForestClassifier,
+            'params': lambda trial: {
+                'n_estimators': trial.suggest_int('n_estimators', 50, 300),
+                'max_depth': trial.suggest_int('max_depth', 3, 20),
+                'min_samples_split': trial.suggest_int('min_samples_split', 2, 20),
+                'min_samples_leaf': trial.suggest_int('min_samples_leaf', 1, 10),
+                'max_features': trial.suggest_float('max_features', 0.1, 1.0),
+                'class_weight': trial.suggest_categorical('class_weight', [None, 'balanced'])
+            }
+        },
+        'Gradient Boosting': {
+            'class': GradientBoostingClassifier,
+            'params': lambda trial: {
+                'n_estimators': trial.suggest_int('n_estimators', 50, 300),
+                'learning_rate': trial.suggest_float('learning_rate', 0.01, 0.3, log=True),
+                'max_depth': trial.suggest_int('max_depth', 3, 10),
+                'subsample': trial.suggest_float('subsample', 0.5, 1.0),
+                'min_samples_split': trial.suggest_int('min_samples_split', 2, 20)
+            }
+        },
+        'Linear SVC': {
+            'class': LinearSVC,
+            'params': lambda trial: {
+                'C': trial.suggest_float('C', 1e-4, 1e2, log=True),
+                'dual': trial.suggest_categorical('dual', [False]),
+                'max_iter': trial.suggest_int('max_iter', 1000, 20000)
+            },
+            'calibrated': True
+        }
+    }
 
-    for name, model in models.items():
-        print(f"\nTraining {name}...")
-        # Train with early stopping
-        if name == 'XGBoost':
-            model.fit(X_train, y_train,
-                      eval_set=[(X_test, y_test)],
-                      verbose=False)
-        else:
-            model.fit(X_train, y_train)
+    for model_name, config in model_configs.items():
+        print(f"\nOptimizing {model_name}...")
+
+        def objective(trial):
+            params = config['params'](trial)
+            
+            if config.get('calibrated', False):
+                base_model = config['class'](**params)
+                model = CalibratedClassifierCV(base_model, method='isotonic', cv=3)
+            else:
+                model = config['class'](**params)
+                
+            score = cross_val_score(
+                model, 
+                X_train_scaled, 
+                y_train, 
+                cv=3, 
+                scoring='neg_log_loss',
+                n_jobs=-1
+            ).mean()
+            return -score  # Minimize negative log loss
+
+
+        study = optuna.create_study(direction='minimize', sampler=optuna.samplers.TPESampler())
+        study.optimize(objective, n_trials=200, show_progress_bar=True)
         
-        # Track best model based on log loss
-        if hasattr(model, 'predict_proba'):
-            probs = model.predict_proba(X_test)[:, 1]
+        # Train final model with best params
+        best_params = study.best_params
+        if config.get('calibrated', False):
+            base_model = config['class'](**best_params)
+            final_model = CalibratedClassifierCV(base_model, method='isotonic', cv=3)
         else:
-            decision = model.decision_function(X_test)
+            final_model = config['class'](**best_params)
+            
+        final_model.fit(X_train_scaled, y_train)
+        
+        # Evaluate
+        if hasattr(final_model, 'predict_proba'):
+            probs = final_model.predict_proba(X_test_scaled)[:, 1]
+        else:
+            decision = final_model.decision_function(X_test_scaled)
             probs = 1 / (1 + np.exp(-decision))
             
-        # Calculate metrics
-        current_logloss = log_loss(y_test, probs)
-        current_accuracy = accuracy_score(y_test, model.predict(X_test))
+        logloss = log_loss(y_test, probs)
+        accuracy = accuracy_score(y_test, final_model.predict(X_test_scaled))
+        
+        best_models[model_name] = {
+            'model': final_model,
+            'logloss': logloss,
+            'accuracy': accuracy,
+            'params': best_params
+        }
+        
+        print(f"{model_name} - Best Log Loss: {logloss:.4f}, Accuracy: {accuracy:.3f}")
 
-        # Track best model version
-        if name not in best_models or current_logloss < best_models[name]['logloss']:
-            best_models[name] = {
-                'model': model,
-                'logloss': current_logloss,
-                'accuracy': current_accuracy
-            }
-
-        # Track overall best model
-        if current_logloss < best_overall['score']:
-            best_overall['name'] = name
-            best_overall['score'] = current_logloss
-
-        print(f"{name} - Log Loss: {current_logloss:.3f}, Accuracy: {current_accuracy:.3f}")
+    # Determine best overall model
+    best_overall = min(best_models.items(), key=lambda x: x[1]['logloss'])
     
-    # Save all best models
+    # Save artifacts
     artifacts = {
         'models': {name: data['model'] for name, data in best_models.items()},
-        'best_model': best_overall['name'],
+        'best_model': best_overall[0],
+        'best_params': best_overall[1]['params'],
         'scaler': scaler,
         'features': feature_cols,
         'stats_config': STATS
@@ -314,6 +368,50 @@ def train_model(features):
 
     return artifacts
 
+
+def create_balanced_matchups(results_df, teams_df):
+        """Create matchups with randomized team order and proper labeling"""
+        merged = results_df.merge(
+            teams_df[['TeamID', 'TeamName']],
+            left_on='WTeamID',
+            right_on='TeamID'
+        ).merge(
+            teams_df[['TeamID', 'TeamName']],
+            left_on='LTeamID',
+            right_on='TeamID',
+            suffixes=('_W', '_L')
+        )
+        
+        # Randomize team order
+        np.random.seed(42)
+        swap_mask = np.random.rand(len(merged)) < 0.5
+        
+        return pd.DataFrame({
+            'Year': merged['Season'],
+            'Team1': np.where(swap_mask, merged['TeamName_L'], merged['TeamName_W']),
+            'Team2': np.where(swap_mask, merged['TeamName_W'], merged['TeamName_L']),
+            'Target': np.where(swap_mask, 0, 1)  # 1 if Team1 is actual winner
+        })
+
+# def objective(trial):
+#         params = config['params'](trial)
+        
+#         if config.get('calibrated', False):
+#             base_model = config['class'](**params)
+#             model = CalibratedClassifierCV(base_model, method='isotonic', cv=3)
+#         else:
+#             model = config['class'](**params)
+            
+#         score = cross_val_score(
+#             model, 
+#             X_train_scaled, 
+#             y_train, 
+#             cv=3, 
+#             scoring='neg_log_loss',
+#             n_jobs=-1
+#         ).mean()
+#         return -score  # Minimize negative log loss
+
 # ======================
 # MAIN WORKFLOW
 # ======================
@@ -321,25 +419,10 @@ if __name__ == "__main__":
     # Load historical matchups
     teams = pd.read_csv("data/MTeams.csv")
     results = pd.read_csv("data/MNCAATourneyCompactResults.csv")
+
+    results = results[results['Season'].isin(YEARS)]
     
-    # Create base matchups
-    matchups = results.merge(
-        teams[['TeamID', 'TeamName']],
-        left_on='WTeamID',
-        right_on='TeamID'
-    ).merge(
-        teams[['TeamID', 'TeamName']],
-        left_on='LTeamID',
-        right_on='TeamID',
-        suffixes=('_1', '_2')
-    ).rename(columns={
-        'Season': 'Year',
-        'TeamName_1': 'Team1',
-        'TeamName_2': 'Team2'
-    })[['Year', 'Team1', 'Team2']]
-    
-    matchups['Winner'] = matchups['Team1']
-    matchups = matchups[matchups['Year'].isin(YEARS)]
+    matchups = create_balanced_matchups(results, teams)
     
     # Process features with fuzzy matching
     feature_df = process_features(matchups)

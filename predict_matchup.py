@@ -89,6 +89,8 @@ class MarchMadnessPredictor:
             
             features[f'{stat}_Diff'] = val1 - val2
             features[f'{stat}_Ratio'] = val1 / (val2 + 1e-8)  # Avoid division by zero
+            features[f'{stat}_Product'] = val1 * val2
+            features[f'{stat}_SquaredDiff'] = (val1 - val2) ** 2
             
         return pd.DataFrame([features])[self.feature_names]
     

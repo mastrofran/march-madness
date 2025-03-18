@@ -15,6 +15,7 @@ thefuzz = "*"
 python-levenshtein = "*"
 html5lib = "*"
 tqdm = "*"
+optuna = "*"
 
 [dev-packages]
 
