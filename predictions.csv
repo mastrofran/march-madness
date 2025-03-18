@@ -1,0 +1,9 @@
+Logistic Regression_Winner,Logistic Regression_Prob,Random Forest_Winner,Random Forest_Prob,XGBoost_Winner,XGBoost_Prob,Linear SVC_Winner,Linear SVC_Prob,Team1,Team2,Final_Prediction
+Auburn,86.0%,Auburn,65.1%,Auburn,72.1%,Yale,68.9%,Auburn,Yale,Auburn
+Mississippi,84.9%,Mississippi,66.8%,Mississippi,84.9%,Mississippi,86.2%,Mississippi,Marquette,Mississippi
+Duke,89.0%,Duke,81.0%,Duke,89.1%,Duke,51.1%,Duke,Oregon,Duke
+BYU,80.2%,BYU,69.0%,BYU,86.9%,BYU,97.1%,BYU,Saint Mary's,BYU
+Florida,73.3%,Florida,65.5%,Florida,79.2%,Maryland,85.1%,Florida,Maryland,Florida
+Missouri,88.9%,Missouri,62.9%,Missouri,72.1%,Missouri,93.4%,Missouri,Kansas,Missouri
+Gonzaga,87.9%,Gonzaga,72.9%,Gonzaga,86.0%,Gonzaga,51.1%,Gonzaga,Clemson,Gonzaga
+Kentucky,88.6%,Kentucky,66.9%,Kentucky,85.5%,Kentucky,87.0%,Kentucky,UCLA,Kentucky
