@@ -13,12 +13,11 @@ from sklearn.preprocessing import StandardScaler
 
 class MarchMadnessPredictor:
     def __init__(self, model_path):
-        """Load trained ensemble model"""
+        """Load trained stacking model"""
         with open(model_path, 'rb') as f:
             artifacts = pickle.load(f)
         
-        self.models = artifacts['models']
-        self.best_model = artifacts['best_model']
+        self.model = artifacts['model']
         self.scaler = artifacts['scaler']
         self.feature_names = artifacts['features']
         self.stats_config = artifacts['stats_config']
@@ -46,7 +45,7 @@ class MarchMadnessPredictor:
         
         for stat_url, stat_key in tqdm(self.stats_config.items(), desc="Stats"):
             try:
-                url = f"https://www.teamrankings.com/ncaa-basketball/{stat_url}?date={year}-03-01"
+                url = f"https://www.teamrankings.com/ncaa-basketball/{stat_url}?date={year}-03-18"
                 response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
                 response.raise_for_status()
                 
@@ -87,11 +86,23 @@ class MarchMadnessPredictor:
             val1 = team1_stats.get(stat, 0)
             val2 = team2_stats.get(stat, 0)
             
-            features[f'{stat}_Diff'] = val1 - val2
-            features[f'{stat}_Ratio'] = val1 / (val2 + 1e-8)  # Avoid division by zero
-            features[f'{stat}_Product'] = val1 * val2
-            features[f'{stat}_SquaredDiff'] = (val1 - val2) ** 2
+            t1_momentum = 1 + (team1_stats['Last 10 Rating'] * 0.3)  # 30% weight to recent form
+            t2_momentum = 1 + (team2_stats['Last 10 Rating'] * 0.3)
             
+            # Calculate SOS weights
+            t1_sos = 1 + (team1_stats['SOS'] * 0.3)  # 30% weight to schedule strength
+            t2_sos = 1 + (team2_stats['SOS'] * 0.3)
+            
+            # Apply weighted values
+            t1_weighted = val1 * t1_momentum * t1_sos
+            t2_weighted = val2 * t2_momentum * t2_sos
+            
+            # Create features
+            features[f'{stat}_Diff'] = t1_weighted - t2_weighted
+            features[f'{stat}_Ratio'] = t1_weighted / (t2_weighted + 1e-8)
+            features[f'{stat}_Product'] = t1_weighted * t2_weighted
+            features[f'{stat}_SquaredDiff'] = (t1_weighted - t2_weighted)**2
+        
         return pd.DataFrame([features])[self.feature_names]
     
     def _predict_single_matchup(self, team1, team2):
@@ -123,41 +134,23 @@ class MarchMadnessPredictor:
         features = self._create_features(team1_stats, team2_stats)
         features_scaled = self.scaler.transform(features)
         
-        predictions = {}
-        model_votes = []
-        best_model_pred = None
-        
-        for model_name, model in self.models.items():
-            if hasattr(model, 'predict_proba'):
-                prob = model.predict_proba(features_scaled)[0][1]
+         # Get prediction and probability
+        prob = self.model.predict_proba(features_scaled)[0][1]
+        # Get individual model probabilities for interpretability
+        model_probs = {}
+        for name, estimator in self.model.named_estimators_.items():
+            if hasattr(estimator, 'predict_proba'):
+                model_probs[name] = estimator.predict_proba(features_scaled)[0][1]
             else:
-                decision = model.decision_function(features_scaled)
-                prob = 1 / (1 + np.exp(-decision))[0]
-            
-            winner = team1 if prob > 0.5 else team2
-            winner_prob = prob if winner == team1 else (1 - prob)
-            
-            predictions[f'{model_name}_Winner'] = winner
-            predictions[f'{model_name}_Prob'] = f"{winner_prob:.1%}"
-            model_votes.append(winner)
-            
-            if model_name == self.best_model:
-                best_model_pred = winner
-
-        # Count votes with tiebreaker
-        vote_counts = pd.Series(model_votes).value_counts()
-        if len(vote_counts) == 1 or vote_counts.iloc[0] > vote_counts.iloc[1]:
-            final_winner = vote_counts.index[0]
-        else:
-            final_winner = best_model_pred  # Tiebreaker
-            
-        predictions.update({
+                decision = estimator.decision_function(features_scaled)
+                model_probs[name] = 1 / (1 + np.exp(-decision))[0]
+        
+        return {
             'Team1': team1,
             'Team2': team2,
-            'Final_Prediction': final_winner
-        })
-        
-        return predictions
+            'Winner': team1 if prob > 0.5 else team2,
+            'Probability': f"{max(prob, 1-prob):.1%}",
+        }
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Ensemble March Madness Predictor')
@@ -169,8 +162,9 @@ if __name__ == "__main__":
     # Load matchups
     matchups = pd.read_csv(args.input_csv)
     
-    predictor = MarchMadnessPredictor('tournament_model.pkl')
+    predictor = MarchMadnessPredictor('voting_model.pkl')
     results = predictor.predict_matchups(matchups, args.year)
-    
+     # Clean output
+    results = results[['Team1', 'Team2', 'Winner', 'Probability',]]
     results.to_csv(args.output_csv, index=False)
     print(f"Predictions saved to {args.output_csv}")

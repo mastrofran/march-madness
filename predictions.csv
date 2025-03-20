@@ -1,3 +1,33 @@
-Logistic Regression_Winner,Logistic Regression_Prob,Random Forest_Winner,Random Forest_Prob,Gradient Boosting_Winner,Gradient Boosting_Prob,Linear SVC_Winner,Linear SVC_Prob,Team1,Team2,Final_Prediction
-Florida,69.5%,Florida,82.9%,Florida,74.2%,Florida,78.2%,Michigan,Florida,Florida
-Houston,60.8%,Houston,53.6%,Duke,50.1%,Houston,79.7%,Duke,Houston,Houston
+Team1,Team2,Winner,Probability
+Auburn,Alabama St,Auburn,70.3%
+Louisville,Creighton,Creighton,57.4%
+Michigan,UCSD,UCSD,51.9%
+Texas A&M,Yale,Texas A&M,55.1%
+Mississippi,North Carolina,North Carolina,61.4%
+Iowa St,Lipscomb,Iowa St,54.4%
+Marquette,New Mexico,New Mexico,59.3%
+Michigan St,Bryant,Michigan St,56.1%
+Duke,American,Duke,66.5%
+Mississippi St,Baylor,Baylor,56.4%
+Oregon,Liberty,Oregon,55.8%
+Arizona,Akron,Arizona,61.8%
+BYU,VCU,VCU,54.4%
+Wisconsin,Montana,Wisconsin,56.4%
+Saint Mary's,Vanderbilt,Vanderbilt,54.5%
+Alabama,Robert Morris,Alabama,62.1%
+Florida,Norfolk St,Florida,68.6%
+UConn,Oklahoma,UConn,50.3%
+Memphis,Colorado St,Colorado St,61.7%
+Maryland,Grand Canyon,Maryland,65.0%
+Missouri,Drake,Drake,51.8%
+Texas Tech,NC Wilmington,Texas Tech,56.3%
+Kansas,Arkansas,Arkansas,53.8%
+St John's,Omaha,St John's,71.1%
+Gonzaga,Georgia,Gonzaga,50.7%
+Clemson,McNeese,Clemson,54.3%
+Purdue,High Point,Purdue,56.6%
+Illinois,Xavier,Xavier,59.2%
+Illinois,Texas,Texas,62.8%
+Kentucky,Troy,Kentucky,53.1%
+UCLA,Utah St,Utah St,61.4%
+Tennessee,Wofford,Tennessee,67.7%
